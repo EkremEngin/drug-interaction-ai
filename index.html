@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drug Interaction AI</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>İlaç Etkileşim Analizi</h1>
+
+        <textarea id="inputText" placeholder="Bugün aldığınız ilaçları buraya yazın..."></textarea>
+
+        <div id="styleButtons">
+            <button class="style-btn active" data-style="1">Basit</button>
+            <button class="style-btn" data-style="2">Orta</button>
+            <button class="style-btn" data-style="3">Doktor</button>
+        </div>
+
+        <button id="analyzeBtn">Analiz Et</button>
+
+        <div id="riskFilterButtons">
+            <button class="risk-btn risk-btn-low" data-target="low">Düşük Risk (<span id="low-count">0</span>)</button>
+            <button class="risk-btn risk-btn-medium" data-target="medium">Orta Risk (<span id="medium-count">0</span>)</button>
+            <button class="risk-btn risk-btn-high" data-target="high">Yüksek Risk (<span id="high-count">0</span>)</button>
+        </div>
+
+        <div id="risk-panels">
+            <div id="panel-low" class="risk-panel"></div>
+            <div id="panel-medium" class="risk-panel"></div>
+            <div id="panel-high" class="risk-panel"></div>
+        </div>
+
+        <div id="result"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

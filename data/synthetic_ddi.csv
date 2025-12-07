@@ -1,0 +1,5001 @@
+drug_1,drug_2,severity
+omeprazole,amiodarone,1
+clarithromycin,omeprazole,1
+ketoprofen,tramadol,1
+pravastatin,azithromycin,3
+fluoxetine,warfarin,3
+alprazolam,dabigatran,1
+azithromycin,dexketoprofen,1
+erythromycin,rivaroxaban,1
+escitalopram,codeine,2
+pravastatin,paracetamol,1
+paroxetine,apixaban,1
+dabigatran,alprazolam,1
+rivaroxaban,erythromycin,1
+acetaminophen,morphine,1
+esomeprazole,warfarin,1
+vitamin c,naproxen,1
+b12,rosuvastatin,1
+diclofenac,vitamin c,1
+edoxaban,erythromycin,1
+diclofenac,pantoprazole,1
+b12,paracetamol,1
+simvastatin,clonazepam,1
+dabigatran,diazepam,1
+clarithromycin,enterogermina,1
+paracetamol,pravastatin,1
+morphine,clarithromycin,1
+sertraline,dexketoprofen,2
+esomeprazole,ibuprofen,1
+simvastatin,warfarin,1
+naproxen,enterogermina,1
+oxycodone,morphine,1
+vitamin c,sertraline,1
+diazepam,probiotic,1
+vitamin c,clarithromycin,1
+codeine,alprazolam,3
+erythromycin,rosuvastatin,3
+erythromycin,pantoprazole,1
+b12,dabigatran,1
+oxycodone,clarithromycin,1
+diclofenac,sertraline,2
+b12,folic acid,1
+sertraline,ibuprofen,2
+vitamin d,atorvastatin,1
+paracetamol,paroxetine,1
+rosuvastatin,clonazepam,1
+folic acid,simvastatin,1
+esomeprazole,ibuprofen,1
+esomeprazole,dabigatran,1
+probiotic,naproxen,1
+acetaminophen,clarithromycin,1
+erythromycin,morphine,1
+rosuvastatin,edoxaban,1
+naproxen,paracetamol,1
+dabigatran,azithromycin,1
+paracetamol,azithromycin,1
+fluoxetine,pravastatin,1
+fluoxetine,naproxen,2
+erythromycin,escitalopram,1
+ibuprofen,apixaban,1
+morphine,tramadol,1
+pantoprazole,naproxen,1
+oxycodone,vitamin d,1
+paroxetine,codeine,2
+clonazepam,morphine,3
+erythromycin,lorazepam,1
+apixaban,alprazolam,1
+diclofenac,naproxen,1
+fluoxetine,acetaminophen,1
+acetaminophen,oxycodone,1
+clarithromycin,paracetamol,1
+clarithromycin,atorvastatin,3
+edoxaban,paroxetine,1
+probiotic,fluoxetine,1
+omeprazole,alprazolam,1
+pravastatin,erythromycin,3
+codeine,omeprazole,1
+paracetamol,atorvastatin,1
+clonazepam,probiotic,1
+erythromycin,rivaroxaban,1
+edoxaban,rivaroxaban,1
+fluoxetine,vitamin d,1
+clarithromycin,paroxetine,1
+warfarin,rosuvastatin,1
+omeprazole,fluoxetine,1
+warfarin,acetaminophen,1
+fluoxetine,ibuprofen,2
+ibuprofen,clarithromycin,1
+rosuvastatin,esomeprazole,2
+diazepam,azithromycin,1
+pravastatin,fluoxetine,1
+clonazepam,azithromycin,1
+acetaminophen,vitamin c,1
+rosuvastatin,ibuprofen,1
+ibuprofen,sertraline,2
+azithromycin,amiodarone,3
+clonazepam,codeine,3
+diazepam,amiodarone,3
+warfarin,folic acid,1
+vitamin c,amiodarone,1
+erythromycin,dabigatran,1
+rosuvastatin,vitamin d,1
+enterogermina,paracetamol,1
+tramadol,dexketoprofen,1
+naproxen,pravastatin,1
+alprazolam,paracetamol,1
+clarithromycin,diclofenac,1
+clarithromycin,edoxaban,1
+lorazepam,probiotic,1
+rivaroxaban,diazepam,1
+naproxen,ketoprofen,1
+omeprazole,enterogermina,1
+ketoprofen,paroxetine,2
+probiotic,sertraline,1
+pravastatin,tramadol,1
+probiotic,esomeprazole,1
+naproxen,vitamin d,1
+pantoprazole,probiotic,1
+alprazolam,dexketoprofen,1
+diazepam,oxycodone,3
+tramadol,fluoxetine,2
+probiotic,enterogermina,1
+oxycodone,naproxen,1
+rosuvastatin,probiotic,1
+warfarin,diclofenac,3
+sertraline,acetaminophen,1
+ketoprofen,edoxaban,1
+acetaminophen,diclofenac,1
+pantoprazole,enterogermina,1
+vitamin d,rosuvastatin,1
+b12,fluoxetine,1
+paracetamol,omeprazole,1
+warfarin,pantoprazole,1
+atorvastatin,apixaban,1
+atorvastatin,clarithromycin,3
+vitamin c,tramadol,1
+vitamin d,omeprazole,1
+folic acid,acetaminophen,1
+pantoprazole,amiodarone,1
+omeprazole,tramadol,1
+ketoprofen,lorazepam,1
+b12,azithromycin,1
+azithromycin,probiotic,1
+azithromycin,simvastatin,3
+edoxaban,alprazolam,1
+apixaban,morphine,1
+clarithromycin,diazepam,1
+rosuvastatin,codeine,1
+atorvastatin,enterogermina,1
+pravastatin,dexketoprofen,1
+lorazepam,folic acid,1
+erythromycin,lorazepam,1
+rivaroxaban,b12,1
+erythromycin,b12,1
+paracetamol,amiodarone,1
+b12,sertraline,1
+lorazepam,b12,1
+diclofenac,vitamin d,1
+clarithromycin,esomeprazole,1
+edoxaban,enterogermina,1
+ibuprofen,lorazepam,1
+paroxetine,enterogermina,1
+diclofenac,simvastatin,1
+b12,folic acid,1
+tramadol,enterogermina,1
+folic acid,clarithromycin,1
+pravastatin,paroxetine,1
+folic acid,tramadol,1
+erythromycin,morphine,1
+b12,diclofenac,1
+pravastatin,paracetamol,1
+esomeprazole,ketoprofen,1
+sertraline,paroxetine,1
+alprazolam,atorvastatin,1
+vitamin d,simvastatin,1
+folic acid,diclofenac,1
+sertraline,acetaminophen,1
+morphine,escitalopram,2
+acetaminophen,erythromycin,1
+diazepam,tramadol,3
+atorvastatin,vitamin d,1
+vitamin d,ketoprofen,1
+codeine,sertraline,2
+lorazepam,edoxaban,1
+fluoxetine,edoxaban,1
+pantoprazole,morphine,1
+edoxaban,folic acid,1
+vitamin d,folic acid,1
+alprazolam,vitamin c,1
+erythromycin,simvastatin,3
+ibuprofen,pantoprazole,1
+probiotic,pravastatin,1
+tramadol,erythromycin,1
+fluoxetine,alprazolam,2
+clarithromycin,edoxaban,1
+dexketoprofen,omeprazole,1
+sertraline,ketoprofen,2
+clarithromycin,simvastatin,3
+clarithromycin,azithromycin,1
+probiotic,warfarin,1
+edoxaban,esomeprazole,1
+dexketoprofen,clarithromycin,1
+edoxaban,erythromycin,1
+vitamin d,erythromycin,1
+erythromycin,warfarin,3
+atorvastatin,omeprazole,2
+esomeprazole,pravastatin,2
+ketoprofen,fluoxetine,2
+azithromycin,vitamin d,1
+acetaminophen,atorvastatin,1
+erythromycin,naproxen,1
+clarithromycin,paracetamol,1
+tramadol,clarithromycin,1
+paracetamol,lorazepam,1
+codeine,diazepam,3
+lorazepam,pantoprazole,1
+codeine,diazepam,3
+warfarin,clarithromycin,3
+warfarin,erythromycin,3
+warfarin,clonazepam,1
+alprazolam,naproxen,1
+erythromycin,escitalopram,1
+folic acid,omeprazole,1
+amiodarone,fluoxetine,3
+vitamin c,fluoxetine,1
+acetaminophen,diazepam,1
+rosuvastatin,ibuprofen,1
+erythromycin,oxycodone,1
+escitalopram,warfarin,3
+oxycodone,diazepam,3
+vitamin c,amiodarone,1
+azithromycin,dexketoprofen,1
+oxycodone,escitalopram,2
+escitalopram,diclofenac,2
+ketoprofen,rosuvastatin,1
+amiodarone,diclofenac,1
+lorazepam,enterogermina,1
+b12,edoxaban,1
+morphine,alprazolam,3
+atorvastatin,fluoxetine,1
+vitamin c,enterogermina,1
+morphine,lorazepam,3
+alprazolam,erythromycin,1
+oxycodone,simvastatin,1
+ketoprofen,ibuprofen,1
+naproxen,vitamin d,1
+escitalopram,diazepam,2
+pravastatin,azithromycin,3
+tramadol,rosuvastatin,1
+erythromycin,fluoxetine,1
+clarithromycin,esomeprazole,1
+naproxen,rosuvastatin,1
+fluoxetine,atorvastatin,1
+atorvastatin,morphine,1
+apixaban,oxycodone,1
+sertraline,morphine,2
+morphine,vitamin c,1
+ketoprofen,oxycodone,1
+b12,atorvastatin,1
+edoxaban,naproxen,1
+clarithromycin,codeine,1
+naproxen,diazepam,1
+edoxaban,paroxetine,1
+escitalopram,diclofenac,2
+paracetamol,vitamin c,1
+naproxen,morphine,1
+fluoxetine,folic acid,1
+diazepam,ibuprofen,1
+edoxaban,atorvastatin,1
+apixaban,probiotic,1
+enterogermina,morphine,1
+diclofenac,paroxetine,2
+simvastatin,warfarin,1
+ketoprofen,sertraline,2
+ibuprofen,erythromycin,1
+morphine,ibuprofen,1
+paroxetine,escitalopram,1
+atorvastatin,rosuvastatin,1
+pantoprazole,esomeprazole,1
+apixaban,esomeprazole,1
+b12,omeprazole,1
+codeine,dexketoprofen,1
+fluoxetine,omeprazole,1
+sertraline,enterogermina,1
+clarithromycin,pantoprazole,1
+rivaroxaban,apixaban,1
+tramadol,vitamin d,1
+paracetamol,probiotic,1
+paracetamol,enterogermina,1
+atorvastatin,paracetamol,1
+naproxen,fluoxetine,2
+apixaban,paracetamol,1
+codeine,clonazepam,3
+enterogermina,azithromycin,1
+paroxetine,pravastatin,1
+paracetamol,pravastatin,1
+enterogermina,vitamin d,1
+naproxen,morphine,1
+pravastatin,edoxaban,1
+diclofenac,vitamin c,1
+rosuvastatin,vitamin d,1
+azithromycin,fluoxetine,1
+clarithromycin,pravastatin,3
+folic acid,lorazepam,1
+dexketoprofen,b12,1
+diclofenac,oxycodone,1
+dabigatran,esomeprazole,1
+tramadol,paroxetine,2
+omeprazole,pantoprazole,1
+dexketoprofen,clonazepam,1
+dexketoprofen,acetaminophen,1
+vitamin d,edoxaban,1
+warfarin,simvastatin,1
+naproxen,morphine,1
+diclofenac,azithromycin,1
+azithromycin,codeine,1
+vitamin c,warfarin,1
+tramadol,lorazepam,3
+pantoprazole,apixaban,1
+edoxaban,clonazepam,1
+omeprazole,dexketoprofen,1
+ibuprofen,ketoprofen,1
+escitalopram,enterogermina,1
+rosuvastatin,vitamin d,1
+clonazepam,paracetamol,1
+erythromycin,esomeprazole,1
+atorvastatin,alprazolam,1
+oxycodone,erythromycin,1
+paracetamol,acetaminophen,1
+paroxetine,diazepam,2
+ibuprofen,probiotic,1
+probiotic,simvastatin,1
+probiotic,acetaminophen,1
+clonazepam,atorvastatin,1
+clarithromycin,clarithromycin,1
+rosuvastatin,codeine,1
+clarithromycin,ketoprofen,1
+vitamin c,alprazolam,1
+probiotic,lorazepam,1
+warfarin,acetaminophen,1
+omeprazole,vitamin d,1
+esomeprazole,diazepam,1
+dexketoprofen,alprazolam,1
+tramadol,clonazepam,3
+folic acid,esomeprazole,1
+pantoprazole,omeprazole,1
+clarithromycin,dabigatran,1
+vitamin c,omeprazole,1
+enterogermina,warfarin,1
+clarithromycin,rosuvastatin,3
+ketoprofen,esomeprazole,1
+morphine,paroxetine,2
+pravastatin,edoxaban,1
+b12,clarithromycin,1
+atorvastatin,apixaban,1
+oxycodone,paroxetine,2
+edoxaban,clarithromycin,1
+vitamin d,paroxetine,1
+sertraline,escitalopram,1
+clarithromycin,naproxen,1
+omeprazole,esomeprazole,1
+amiodarone,clonazepam,3
+edoxaban,atorvastatin,1
+erythromycin,amiodarone,3
+rivaroxaban,diclofenac,1
+pravastatin,vitamin d,1
+sertraline,diclofenac,2
+azithromycin,oxycodone,1
+erythromycin,ibuprofen,1
+rivaroxaban,escitalopram,1
+edoxaban,dabigatran,1
+paroxetine,warfarin,3
+rosuvastatin,alprazolam,1
+lorazepam,tramadol,3
+alprazolam,diclofenac,1
+oxycodone,acetaminophen,1
+folic acid,edoxaban,1
+dabigatran,oxycodone,1
+clarithromycin,erythromycin,3
+codeine,ibuprofen,1
+clonazepam,morphine,3
+sertraline,clarithromycin,1
+azithromycin,esomeprazole,1
+edoxaban,oxycodone,1
+diazepam,enterogermina,1
+folic acid,ketoprofen,1
+diazepam,erythromycin,1
+dabigatran,clarithromycin,1
+simvastatin,rivaroxaban,1
+morphine,alprazolam,3
+vitamin d,diclofenac,1
+enterogermina,clarithromycin,1
+amiodarone,paroxetine,3
+vitamin d,erythromycin,1
+sertraline,folic acid,1
+alprazolam,clarithromycin,1
+vitamin c,simvastatin,1
+diclofenac,tramadol,1
+esomeprazole,rosuvastatin,2
+lorazepam,erythromycin,1
+lorazepam,b12,1
+naproxen,diazepam,1
+b12,morphine,1
+vitamin c,atorvastatin,1
+rosuvastatin,edoxaban,1
+ketoprofen,amiodarone,1
+diclofenac,vitamin d,1
+b12,morphine,1
+probiotic,amiodarone,1
+escitalopram,pantoprazole,1
+clarithromycin,naproxen,1
+diazepam,pantoprazole,1
+codeine,clarithromycin,1
+acetaminophen,clarithromycin,1
+lorazepam,erythromycin,1
+clonazepam,tramadol,3
+amiodarone,clonazepam,3
+pantoprazole,esomeprazole,1
+rosuvastatin,vitamin c,1
+enterogermina,apixaban,1
+atorvastatin,morphine,1
+clarithromycin,morphine,1
+diazepam,paroxetine,2
+clarithromycin,codeine,1
+alprazolam,erythromycin,1
+simvastatin,oxycodone,1
+edoxaban,warfarin,1
+dexketoprofen,folic acid,1
+acetaminophen,codeine,1
+vitamin d,esomeprazole,1
+diclofenac,paroxetine,2
+warfarin,diclofenac,3
+lorazepam,probiotic,1
+rosuvastatin,edoxaban,1
+tramadol,edoxaban,1
+dabigatran,codeine,1
+amiodarone,clarithromycin,3
+escitalopram,clarithromycin,1
+dexketoprofen,simvastatin,1
+omeprazole,naproxen,1
+ibuprofen,apixaban,1
+azithromycin,ketoprofen,1
+vitamin c,rivaroxaban,1
+morphine,paracetamol,1
+pantoprazole,clarithromycin,1
+pantoprazole,sertraline,1
+pantoprazole,omeprazole,1
+ibuprofen,diclofenac,1
+folic acid,naproxen,1
+alprazolam,ibuprofen,1
+naproxen,fluoxetine,2
+ketoprofen,azithromycin,1
+edoxaban,acetaminophen,1
+warfarin,amiodarone,3
+edoxaban,fluoxetine,1
+clonazepam,ibuprofen,1
+warfarin,folic acid,1
+amiodarone,apixaban,1
+enterogermina,probiotic,1
+pravastatin,clonazepam,1
+erythromycin,apixaban,1
+vitamin c,clonazepam,1
+atorvastatin,erythromycin,3
+dexketoprofen,b12,1
+rosuvastatin,clarithromycin,3
+rosuvastatin,amiodarone,1
+pravastatin,azithromycin,3
+ketoprofen,rivaroxaban,1
+dabigatran,clarithromycin,1
+pantoprazole,b12,1
+naproxen,dexketoprofen,1
+pantoprazole,azithromycin,1
+paroxetine,acetaminophen,1
+simvastatin,dabigatran,1
+escitalopram,lorazepam,2
+ketoprofen,diclofenac,1
+ibuprofen,dexketoprofen,1
+amiodarone,codeine,1
+lorazepam,folic acid,1
+morphine,esomeprazole,1
+fluoxetine,azithromycin,1
+fluoxetine,amiodarone,3
+b12,escitalopram,1
+acetaminophen,alprazolam,1
+morphine,azithromycin,1
+escitalopram,fluoxetine,1
+fluoxetine,codeine,2
+azithromycin,simvastatin,3
+pantoprazole,dabigatran,1
+dexketoprofen,apixaban,1
+vitamin c,paracetamol,1
+esomeprazole,vitamin c,1
+azithromycin,paroxetine,1
+clonazepam,acetaminophen,1
+amiodarone,diazepam,3
+acetaminophen,morphine,1
+simvastatin,warfarin,1
+folic acid,alprazolam,1
+pantoprazole,atorvastatin,2
+probiotic,rivaroxaban,1
+esomeprazole,acetaminophen,1
+apixaban,ibuprofen,1
+paroxetine,sertraline,1
+pravastatin,pantoprazole,2
+dabigatran,warfarin,1
+morphine,folic acid,1
+erythromycin,pravastatin,3
+apixaban,b12,1
+apixaban,amiodarone,1
+amiodarone,rivaroxaban,1
+acetaminophen,apixaban,1
+ibuprofen,fluoxetine,2
+pantoprazole,alprazolam,1
+ketoprofen,simvastatin,1
+diazepam,amiodarone,3
+codeine,pantoprazole,1
+morphine,pravastatin,1
+pravastatin,diazepam,1
+clonazepam,enterogermina,1
+naproxen,rosuvastatin,1
+rivaroxaban,rosuvastatin,1
+escitalopram,dabigatran,1
+paroxetine,rosuvastatin,1
+codeine,diclofenac,1
+probiotic,rivaroxaban,1
+ketoprofen,pantoprazole,1
+azithromycin,pantoprazole,1
+paracetamol,diazepam,1
+simvastatin,pravastatin,1
+diclofenac,dexketoprofen,1
+escitalopram,sertraline,1
+simvastatin,rosuvastatin,1
+diclofenac,folic acid,1
+clonazepam,pravastatin,1
+erythromycin,diazepam,1
+dexketoprofen,rosuvastatin,1
+clarithromycin,paroxetine,1
+clonazepam,azithromycin,1
+rivaroxaban,dexketoprofen,1
+folic acid,rivaroxaban,1
+atorvastatin,azithromycin,3
+edoxaban,morphine,1
+clarithromycin,rivaroxaban,1
+folic acid,oxycodone,1
+ketoprofen,azithromycin,1
+amiodarone,diazepam,3
+diazepam,paroxetine,2
+paracetamol,rosuvastatin,1
+atorvastatin,erythromycin,3
+vitamin c,sertraline,1
+omeprazole,naproxen,1
+ketoprofen,fluoxetine,2
+pantoprazole,codeine,1
+escitalopram,diclofenac,2
+clonazepam,esomeprazole,1
+ibuprofen,erythromycin,1
+acetaminophen,lorazepam,1
+paracetamol,dabigatran,1
+erythromycin,dabigatran,1
+paracetamol,atorvastatin,1
+clonazepam,morphine,3
+acetaminophen,ketoprofen,1
+edoxaban,ketoprofen,1
+esomeprazole,enterogermina,1
+sertraline,esomeprazole,1
+edoxaban,paroxetine,1
+simvastatin,acetaminophen,1
+codeine,rivaroxaban,1
+probiotic,dabigatran,1
+ibuprofen,paracetamol,1
+esomeprazole,lorazepam,1
+paracetamol,b12,1
+dabigatran,omeprazole,1
+omeprazole,erythromycin,1
+apixaban,vitamin d,1
+erythromycin,folic acid,1
+sertraline,alprazolam,2
+azithromycin,paracetamol,1
+sertraline,rivaroxaban,1
+erythromycin,alprazolam,1
+dexketoprofen,probiotic,1
+tramadol,vitamin d,1
+enterogermina,diazepam,1
+vitamin d,sertraline,1
+erythromycin,escitalopram,1
+sertraline,amiodarone,3
+folic acid,apixaban,1
+dexketoprofen,apixaban,1
+diazepam,paroxetine,2
+enterogermina,omeprazole,1
+azithromycin,diclofenac,1
+folic acid,enterogermina,1
+esomeprazole,warfarin,1
+clarithromycin,atorvastatin,3
+naproxen,escitalopram,2
+probiotic,fluoxetine,1
+tramadol,sertraline,2
+diazepam,pravastatin,1
+pravastatin,diclofenac,1
+sertraline,fluoxetine,1
+ketoprofen,diclofenac,1
+enterogermina,amiodarone,1
+ibuprofen,clarithromycin,1
+sertraline,erythromycin,1
+ketoprofen,pantoprazole,1
+warfarin,rivaroxaban,1
+lorazepam,diclofenac,1
+vitamin c,atorvastatin,1
+b12,folic acid,1
+rosuvastatin,naproxen,1
+dabigatran,diazepam,1
+probiotic,naproxen,1
+ibuprofen,lorazepam,1
+ketoprofen,folic acid,1
+fluoxetine,ibuprofen,2
+ibuprofen,edoxaban,1
+vitamin d,paroxetine,1
+lorazepam,morphine,3
+erythromycin,lorazepam,1
+ibuprofen,diclofenac,1
+diazepam,probiotic,1
+clonazepam,clarithromycin,1
+lorazepam,b12,1
+vitamin d,amiodarone,1
+morphine,naproxen,1
+ibuprofen,amiodarone,1
+esomeprazole,alprazolam,1
+ketoprofen,edoxaban,1
+atorvastatin,diclofenac,1
+omeprazole,ketoprofen,1
+edoxaban,acetaminophen,1
+rivaroxaban,probiotic,1
+atorvastatin,azithromycin,3
+folic acid,ketoprofen,1
+lorazepam,b12,1
+dabigatran,paracetamol,1
+ketoprofen,azithromycin,1
+omeprazole,simvastatin,2
+dexketoprofen,amiodarone,1
+morphine,rivaroxaban,1
+warfarin,azithromycin,3
+folic acid,vitamin c,1
+b12,clarithromycin,1
+sertraline,codeine,2
+folic acid,morphine,1
+simvastatin,oxycodone,1
+amiodarone,atorvastatin,1
+vitamin c,naproxen,1
+dexketoprofen,atorvastatin,1
+clarithromycin,erythromycin,3
+escitalopram,warfarin,3
+escitalopram,clonazepam,2
+acetaminophen,paracetamol,1
+escitalopram,vitamin c,1
+vitamin c,b12,1
+fluoxetine,simvastatin,1
+diclofenac,naproxen,1
+clarithromycin,b12,1
+naproxen,esomeprazole,1
+clarithromycin,diclofenac,1
+sertraline,dexketoprofen,2
+rivaroxaban,warfarin,1
+clarithromycin,diazepam,1
+rivaroxaban,warfarin,1
+rivaroxaban,alprazolam,1
+apixaban,fluoxetine,1
+b12,dexketoprofen,1
+erythromycin,paroxetine,1
+rivaroxaban,tramadol,1
+diclofenac,warfarin,3
+morphine,fluoxetine,2
+erythromycin,esomeprazole,1
+alprazolam,fluoxetine,2
+dabigatran,paracetamol,1
+escitalopram,sertraline,1
+amiodarone,enterogermina,1
+paroxetine,atorvastatin,1
+esomeprazole,warfarin,1
+atorvastatin,codeine,1
+morphine,dexketoprofen,1
+omeprazole,fluoxetine,1
+diclofenac,atorvastatin,1
+b12,clarithromycin,1
+erythromycin,morphine,1
+oxycodone,atorvastatin,1
+escitalopram,clarithromycin,1
+fluoxetine,probiotic,1
+azithromycin,rosuvastatin,3
+edoxaban,clarithromycin,1
+simvastatin,fluoxetine,1
+pravastatin,alprazolam,1
+apixaban,lorazepam,1
+edoxaban,alprazolam,1
+paracetamol,alprazolam,1
+diclofenac,azithromycin,1
+escitalopram,ketoprofen,2
+paracetamol,diclofenac,1
+naproxen,diclofenac,1
+escitalopram,rivaroxaban,1
+fluoxetine,azithromycin,1
+warfarin,dexketoprofen,3
+dabigatran,diazepam,1
+vitamin c,naproxen,1
+clarithromycin,ibuprofen,1
+amiodarone,rosuvastatin,1
+omeprazole,amiodarone,1
+dexketoprofen,erythromycin,1
+paracetamol,clarithromycin,1
+clonazepam,morphine,3
+ketoprofen,diazepam,1
+ketoprofen,dexketoprofen,1
+b12,vitamin c,1
+erythromycin,escitalopram,1
+pantoprazole,dexketoprofen,1
+paroxetine,clarithromycin,1
+fluoxetine,erythromycin,1
+rivaroxaban,dexketoprofen,1
+warfarin,morphine,1
+vitamin c,acetaminophen,1
+diclofenac,paracetamol,1
+apixaban,tramadol,1
+rosuvastatin,dabigatran,1
+diazepam,pantoprazole,1
+b12,edoxaban,1
+paroxetine,tramadol,2
+diclofenac,pantoprazole,1
+diclofenac,naproxen,1
+amiodarone,rosuvastatin,1
+paroxetine,clarithromycin,1
+vitamin d,b12,1
+codeine,erythromycin,1
+simvastatin,folic acid,1
+dabigatran,alprazolam,1
+ketoprofen,vitamin d,1
+ketoprofen,warfarin,3
+alprazolam,lorazepam,1
+esomeprazole,alprazolam,1
+clarithromycin,paracetamol,1
+folic acid,clonazepam,1
+ibuprofen,omeprazole,1
+edoxaban,dexketoprofen,1
+acetaminophen,paracetamol,1
+vitamin c,simvastatin,1
+naproxen,azithromycin,1
+dabigatran,fluoxetine,1
+edoxaban,ketoprofen,1
+dabigatran,alprazolam,1
+apixaban,warfarin,1
+dabigatran,folic acid,1
+apixaban,ketoprofen,1
+pantoprazole,esomeprazole,1
+naproxen,alprazolam,1
+dabigatran,erythromycin,1
+clarithromycin,clonazepam,1
+fluoxetine,pravastatin,1
+vitamin d,rivaroxaban,1
+erythromycin,apixaban,1
+rivaroxaban,dabigatran,1
+pantoprazole,codeine,1
+simvastatin,clonazepam,1
+omeprazole,tramadol,1
+naproxen,fluoxetine,2
+omeprazole,dexketoprofen,1
+dabigatran,sertraline,1
+naproxen,erythromycin,1
+simvastatin,b12,1
+acetaminophen,enterogermina,1
+ketoprofen,b12,1
+rosuvastatin,rivaroxaban,1
+probiotic,esomeprazole,1
+codeine,vitamin d,1
+esomeprazole,morphine,1
+apixaban,dexketoprofen,1
+oxycodone,acetaminophen,1
+dabigatran,azithromycin,1
+paracetamol,rivaroxaban,1
+vitamin d,folic acid,1
+erythromycin,pravastatin,3
+dexketoprofen,ibuprofen,1
+simvastatin,sertraline,1
+paracetamol,tramadol,1
+pantoprazole,codeine,1
+omeprazole,pantoprazole,1
+morphine,edoxaban,1
+tramadol,rosuvastatin,1
+vitamin c,morphine,1
+vitamin c,apixaban,1
+azithromycin,alprazolam,1
+clonazepam,codeine,3
+diazepam,edoxaban,1
+ketoprofen,lorazepam,1
+paroxetine,enterogermina,1
+naproxen,erythromycin,1
+tramadol,clarithromycin,1
+warfarin,ketoprofen,3
+simvastatin,paroxetine,1
+acetaminophen,dabigatran,1
+vitamin c,rosuvastatin,1
+tramadol,vitamin c,1
+azithromycin,warfarin,3
+dabigatran,azithromycin,1
+vitamin d,folic acid,1
+morphine,erythromycin,1
+simvastatin,lorazepam,1
+b12,clonazepam,1
+fluoxetine,alprazolam,2
+paracetamol,codeine,1
+tramadol,clarithromycin,1
+rivaroxaban,azithromycin,1
+clonazepam,dabigatran,1
+clonazepam,lorazepam,1
+apixaban,lorazepam,1
+alprazolam,b12,1
+escitalopram,omeprazole,1
+paroxetine,b12,1
+b12,folic acid,1
+dexketoprofen,dabigatran,1
+paracetamol,probiotic,1
+clarithromycin,paroxetine,1
+oxycodone,omeprazole,1
+paroxetine,tramadol,2
+codeine,ketoprofen,1
+acetaminophen,erythromycin,1
+b12,naproxen,1
+erythromycin,simvastatin,3
+rosuvastatin,oxycodone,1
+esomeprazole,probiotic,1
+morphine,ketoprofen,1
+vitamin c,tramadol,1
+atorvastatin,clonazepam,1
+lorazepam,naproxen,1
+pravastatin,dabigatran,1
+naproxen,erythromycin,1
+paracetamol,esomeprazole,1
+probiotic,dexketoprofen,1
+erythromycin,edoxaban,1
+edoxaban,omeprazole,1
+vitamin c,codeine,1
+acetaminophen,oxycodone,1
+edoxaban,b12,1
+vitamin c,acetaminophen,1
+vitamin d,morphine,1
+vitamin d,apixaban,1
+rivaroxaban,ibuprofen,1
+vitamin c,alprazolam,1
+rivaroxaban,simvastatin,1
+paracetamol,vitamin d,1
+paracetamol,edoxaban,1
+clarithromycin,enterogermina,1
+lorazepam,amiodarone,3
+morphine,clarithromycin,1
+enterogermina,dexketoprofen,1
+vitamin c,paracetamol,1
+apixaban,diazepam,1
+pravastatin,folic acid,1
+acetaminophen,amiodarone,1
+tramadol,lorazepam,3
+vitamin d,sertraline,1
+dexketoprofen,folic acid,1
+ibuprofen,simvastatin,1
+diazepam,oxycodone,3
+omeprazole,erythromycin,1
+clonazepam,rosuvastatin,1
+ketoprofen,acetaminophen,1
+fluoxetine,folic acid,1
+lorazepam,apixaban,1
+clonazepam,oxycodone,3
+clonazepam,folic acid,1
+ketoprofen,paroxetine,2
+apixaban,codeine,1
+pantoprazole,clarithromycin,1
+omeprazole,rivaroxaban,1
+dexketoprofen,azithromycin,1
+oxycodone,b12,1
+clonazepam,rosuvastatin,1
+dabigatran,rosuvastatin,1
+dexketoprofen,apixaban,1
+fluoxetine,rosuvastatin,1
+omeprazole,b12,1
+ketoprofen,clarithromycin,1
+sertraline,esomeprazole,1
+vitamin d,paracetamol,1
+esomeprazole,codeine,1
+simvastatin,folic acid,1
+enterogermina,rivaroxaban,1
+b12,lorazepam,1
+morphine,b12,1
+omeprazole,azithromycin,1
+probiotic,alprazolam,1
+edoxaban,clarithromycin,1
+paracetamol,warfarin,1
+vitamin d,erythromycin,1
+erythromycin,clonazepam,1
+clarithromycin,naproxen,1
+clarithromycin,fluoxetine,1
+pantoprazole,paracetamol,1
+warfarin,codeine,1
+diazepam,alprazolam,1
+atorvastatin,omeprazole,2
+escitalopram,ibuprofen,2
+folic acid,ketoprofen,1
+b12,sertraline,1
+paracetamol,warfarin,1
+fluoxetine,naproxen,2
+rivaroxaban,clonazepam,1
+vitamin c,sertraline,1
+folic acid,esomeprazole,1
+paracetamol,dabigatran,1
+oxycodone,dexketoprofen,1
+warfarin,vitamin d,1
+pravastatin,oxycodone,1
+erythromycin,esomeprazole,1
+dexketoprofen,lorazepam,1
+enterogermina,clonazepam,1
+vitamin c,rosuvastatin,1
+probiotic,naproxen,1
+acetaminophen,alprazolam,1
+vitamin c,paracetamol,1
+clonazepam,codeine,3
+edoxaban,amiodarone,1
+probiotic,oxycodone,1
+rosuvastatin,enterogermina,1
+acetaminophen,simvastatin,1
+erythromycin,ketoprofen,1
+vitamin d,paroxetine,1
+pantoprazole,morphine,1
+dexketoprofen,probiotic,1
+warfarin,pravastatin,1
+paracetamol,diclofenac,1
+paroxetine,sertraline,1
+naproxen,pravastatin,1
+lorazepam,naproxen,1
+naproxen,azithromycin,1
+morphine,probiotic,1
+erythromycin,simvastatin,3
+codeine,amiodarone,1
+tramadol,fluoxetine,2
+paroxetine,diazepam,2
+atorvastatin,enterogermina,1
+oxycodone,paroxetine,2
+escitalopram,b12,1
+rosuvastatin,paroxetine,1
+tramadol,escitalopram,2
+erythromycin,rosuvastatin,3
+azithromycin,esomeprazole,1
+omeprazole,folic acid,1
+warfarin,naproxen,3
+ibuprofen,paracetamol,1
+omeprazole,morphine,1
+erythromycin,dexketoprofen,1
+clarithromycin,acetaminophen,1
+atorvastatin,pravastatin,1
+diazepam,rosuvastatin,1
+b12,naproxen,1
+rosuvastatin,fluoxetine,1
+enterogermina,diazepam,1
+naproxen,ketoprofen,1
+clarithromycin,apixaban,1
+amiodarone,clarithromycin,3
+edoxaban,pantoprazole,1
+ibuprofen,vitamin d,1
+dexketoprofen,codeine,1
+ketoprofen,acetaminophen,1
+folic acid,clarithromycin,1
+folic acid,lorazepam,1
+sertraline,alprazolam,2
+vitamin d,erythromycin,1
+tramadol,clarithromycin,1
+oxycodone,pantoprazole,1
+oxycodone,amiodarone,1
+clarithromycin,lorazepam,1
+ketoprofen,clarithromycin,1
+esomeprazole,rosuvastatin,2
+diclofenac,clonazepam,1
+pravastatin,edoxaban,1
+erythromycin,b12,1
+rivaroxaban,alprazolam,1
+naproxen,diazepam,1
+codeine,paroxetine,2
+folic acid,omeprazole,1
+erythromycin,lorazepam,1
+naproxen,enterogermina,1
+ibuprofen,alprazolam,1
+erythromycin,paracetamol,1
+ibuprofen,paroxetine,2
+rosuvastatin,dabigatran,1
+probiotic,erythromycin,1
+clonazepam,diazepam,1
+azithromycin,erythromycin,1
+acetaminophen,edoxaban,1
+tramadol,clonazepam,3
+pravastatin,oxycodone,1
+acetaminophen,simvastatin,1
+dabigatran,edoxaban,1
+simvastatin,vitamin c,1
+warfarin,ibuprofen,3
+sertraline,ibuprofen,2
+ibuprofen,clarithromycin,1
+folic acid,ketoprofen,1
+enterogermina,escitalopram,1
+ibuprofen,apixaban,1
+edoxaban,probiotic,1
+vitamin c,omeprazole,1
+edoxaban,erythromycin,1
+alprazolam,edoxaban,1
+pravastatin,escitalopram,1
+dabigatran,clarithromycin,1
+alprazolam,amiodarone,3
+diclofenac,dabigatran,1
+warfarin,atorvastatin,1
+pantoprazole,naproxen,1
+erythromycin,erythromycin,1
+omeprazole,codeine,1
+enterogermina,amiodarone,1
+diazepam,acetaminophen,1
+vitamin c,pantoprazole,1
+sertraline,clarithromycin,1
+apixaban,dabigatran,1
+escitalopram,ibuprofen,2
+diazepam,fluoxetine,2
+dexketoprofen,sertraline,2
+lorazepam,esomeprazole,1
+naproxen,folic acid,1
+rosuvastatin,escitalopram,1
+vitamin c,escitalopram,1
+clarithromycin,simvastatin,3
+erythromycin,vitamin d,1
+azithromycin,naproxen,1
+lorazepam,erythromycin,1
+enterogermina,ibuprofen,1
+simvastatin,clarithromycin,3
+pantoprazole,alprazolam,1
+dexketoprofen,pantoprazole,1
+rivaroxaban,clarithromycin,1
+erythromycin,fluoxetine,1
+probiotic,tramadol,1
+ibuprofen,sertraline,2
+atorvastatin,pravastatin,1
+probiotic,morphine,1
+lorazepam,apixaban,1
+atorvastatin,sertraline,1
+vitamin d,codeine,1
+pantoprazole,erythromycin,1
+fluoxetine,acetaminophen,1
+vitamin d,enterogermina,1
+pantoprazole,pravastatin,2
+azithromycin,warfarin,3
+alprazolam,apixaban,1
+clarithromycin,acetaminophen,1
+rosuvastatin,sertraline,1
+sertraline,esomeprazole,1
+alprazolam,warfarin,1
+escitalopram,folic acid,1
+esomeprazole,ibuprofen,1
+acetaminophen,diclofenac,1
+sertraline,escitalopram,1
+naproxen,sertraline,2
+b12,fluoxetine,1
+enterogermina,clarithromycin,1
+azithromycin,codeine,1
+apixaban,ibuprofen,1
+sertraline,probiotic,1
+fluoxetine,dexketoprofen,2
+paroxetine,atorvastatin,1
+simvastatin,lorazepam,1
+ketoprofen,erythromycin,1
+vitamin c,azithromycin,1
+oxycodone,b12,1
+apixaban,acetaminophen,1
+morphine,simvastatin,1
+erythromycin,esomeprazole,1
+edoxaban,rivaroxaban,1
+oxycodone,alprazolam,3
+erythromycin,ibuprofen,1
+diclofenac,probiotic,1
+naproxen,paracetamol,1
+acetaminophen,alprazolam,1
+dabigatran,warfarin,1
+erythromycin,morphine,1
+dabigatran,fluoxetine,1
+erythromycin,erythromycin,1
+codeine,folic acid,1
+sertraline,azithromycin,1
+clonazepam,fluoxetine,2
+acetaminophen,simvastatin,1
+fluoxetine,azithromycin,1
+vitamin c,pravastatin,1
+naproxen,vitamin c,1
+clarithromycin,atorvastatin,3
+enterogermina,vitamin c,1
+ketoprofen,acetaminophen,1
+fluoxetine,acetaminophen,1
+erythromycin,morphine,1
+escitalopram,dexketoprofen,2
+pantoprazole,alprazolam,1
+clarithromycin,paracetamol,1
+azithromycin,vitamin c,1
+diazepam,apixaban,1
+sertraline,vitamin d,1
+paroxetine,erythromycin,1
+diclofenac,edoxaban,1
+amiodarone,naproxen,1
+ibuprofen,b12,1
+amiodarone,clarithromycin,3
+acetaminophen,apixaban,1
+warfarin,apixaban,1
+pravastatin,acetaminophen,1
+oxycodone,dexketoprofen,1
+naproxen,rivaroxaban,1
+pravastatin,paroxetine,1
+fluoxetine,paracetamol,1
+ibuprofen,pravastatin,1
+simvastatin,vitamin c,1
+apixaban,dexketoprofen,1
+paroxetine,edoxaban,1
+dabigatran,oxycodone,1
+escitalopram,edoxaban,1
+apixaban,omeprazole,1
+paroxetine,diazepam,2
+atorvastatin,lorazepam,1
+clonazepam,tramadol,3
+clarithromycin,tramadol,1
+edoxaban,esomeprazole,1
+acetaminophen,dexketoprofen,1
+diazepam,edoxaban,1
+azithromycin,pantoprazole,1
+sertraline,dabigatran,1
+esomeprazole,vitamin d,1
+codeine,clonazepam,3
+fluoxetine,b12,1
+diazepam,warfarin,1
+paracetamol,diazepam,1
+erythromycin,clarithromycin,3
+sertraline,ketoprofen,2
+ibuprofen,paroxetine,2
+codeine,vitamin d,1
+apixaban,lorazepam,1
+atorvastatin,enterogermina,1
+acetaminophen,escitalopram,1
+clarithromycin,pravastatin,3
+ibuprofen,sertraline,2
+apixaban,vitamin d,1
+pantoprazole,atorvastatin,2
+folic acid,edoxaban,1
+simvastatin,diazepam,1
+omeprazole,azithromycin,1
+paroxetine,simvastatin,1
+enterogermina,vitamin c,1
+diazepam,tramadol,3
+esomeprazole,apixaban,1
+sertraline,fluoxetine,1
+naproxen,sertraline,2
+ibuprofen,simvastatin,1
+lorazepam,clarithromycin,1
+tramadol,erythromycin,1
+paroxetine,rosuvastatin,1
+probiotic,amiodarone,1
+apixaban,escitalopram,1
+esomeprazole,pantoprazole,1
+diazepam,naproxen,1
+probiotic,diclofenac,1
+paroxetine,folic acid,1
+enterogermina,apixaban,1
+sertraline,pravastatin,1
+paracetamol,rosuvastatin,1
+dexketoprofen,tramadol,1
+esomeprazole,alprazolam,1
+vitamin d,clonazepam,1
+pantoprazole,vitamin d,1
+erythromycin,atorvastatin,3
+codeine,amiodarone,1
+omeprazole,paracetamol,1
+escitalopram,folic acid,1
+apixaban,omeprazole,1
+codeine,acetaminophen,1
+azithromycin,warfarin,3
+clarithromycin,simvastatin,3
+ibuprofen,escitalopram,2
+azithromycin,probiotic,1
+codeine,azithromycin,1
+omeprazole,pantoprazole,1
+clarithromycin,acetaminophen,1
+clarithromycin,diazepam,1
+enterogermina,fluoxetine,1
+rivaroxaban,azithromycin,1
+clarithromycin,vitamin d,1
+naproxen,alprazolam,1
+diazepam,escitalopram,2
+simvastatin,tramadol,1
+apixaban,dabigatran,1
+clonazepam,dexketoprofen,1
+amiodarone,morphine,1
+clonazepam,erythromycin,1
+vitamin c,lorazepam,1
+apixaban,enterogermina,1
+clarithromycin,tramadol,1
+tramadol,escitalopram,2
+escitalopram,morphine,2
+erythromycin,pantoprazole,1
+pantoprazole,alprazolam,1
+sertraline,alprazolam,2
+enterogermina,paroxetine,1
+edoxaban,folic acid,1
+fluoxetine,lorazepam,2
+probiotic,oxycodone,1
+vitamin c,escitalopram,1
+sertraline,simvastatin,1
+ketoprofen,escitalopram,2
+erythromycin,rosuvastatin,3
+enterogermina,pantoprazole,1
+acetaminophen,rosuvastatin,1
+folic acid,naproxen,1
+dabigatran,escitalopram,1
+alprazolam,amiodarone,3
+acetaminophen,sertraline,1
+atorvastatin,pantoprazole,2
+sertraline,edoxaban,1
+lorazepam,rosuvastatin,1
+paroxetine,pravastatin,1
+simvastatin,apixaban,1
+paracetamol,folic acid,1
+oxycodone,edoxaban,1
+dexketoprofen,probiotic,1
+vitamin c,erythromycin,1
+paroxetine,probiotic,1
+atorvastatin,pantoprazole,2
+pantoprazole,clonazepam,1
+alprazolam,clarithromycin,1
+acetaminophen,tramadol,1
+tramadol,codeine,1
+amiodarone,naproxen,1
+escitalopram,azithromycin,1
+ibuprofen,diazepam,1
+naproxen,rosuvastatin,1
+erythromycin,b12,1
+apixaban,esomeprazole,1
+diazepam,amiodarone,3
+esomeprazole,erythromycin,1
+diazepam,atorvastatin,1
+dexketoprofen,vitamin d,1
+diclofenac,sertraline,2
+folic acid,erythromycin,1
+rivaroxaban,vitamin c,1
+clarithromycin,paroxetine,1
+clonazepam,dexketoprofen,1
+vitamin d,clarithromycin,1
+erythromycin,diazepam,1
+erythromycin,paroxetine,1
+diclofenac,clonazepam,1
+vitamin d,rivaroxaban,1
+naproxen,edoxaban,1
+folic acid,ketoprofen,1
+esomeprazole,warfarin,1
+escitalopram,ibuprofen,2
+folic acid,clonazepam,1
+erythromycin,edoxaban,1
+vitamin c,clonazepam,1
+rosuvastatin,b12,1
+sertraline,paracetamol,1
+omeprazole,simvastatin,2
+clarithromycin,dabigatran,1
+tramadol,alprazolam,3
+esomeprazole,clonazepam,1
+morphine,edoxaban,1
+atorvastatin,pravastatin,1
+vitamin d,sertraline,1
+dexketoprofen,codeine,1
+folic acid,clonazepam,1
+fluoxetine,clarithromycin,1
+pravastatin,clarithromycin,3
+paracetamol,vitamin c,1
+escitalopram,rosuvastatin,1
+dexketoprofen,clarithromycin,1
+ketoprofen,enterogermina,1
+ketoprofen,pantoprazole,1
+codeine,pravastatin,1
+erythromycin,paroxetine,1
+diazepam,codeine,3
+rivaroxaban,acetaminophen,1
+naproxen,vitamin c,1
+amiodarone,oxycodone,1
+alprazolam,tramadol,3
+vitamin c,warfarin,1
+rosuvastatin,clarithromycin,3
+ketoprofen,enterogermina,1
+azithromycin,folic acid,1
+lorazepam,rosuvastatin,1
+ketoprofen,b12,1
+acetaminophen,clarithromycin,1
+naproxen,pravastatin,1
+codeine,paracetamol,1
+pravastatin,clarithromycin,3
+esomeprazole,pravastatin,2
+pravastatin,oxycodone,1
+vitamin c,pantoprazole,1
+dexketoprofen,vitamin c,1
+erythromycin,atorvastatin,3
+clarithromycin,paroxetine,1
+simvastatin,erythromycin,3
+clarithromycin,paroxetine,1
+folic acid,vitamin d,1
+clarithromycin,paracetamol,1
+apixaban,diclofenac,1
+omeprazole,ketoprofen,1
+apixaban,fluoxetine,1
+morphine,lorazepam,3
+folic acid,diazepam,1
+vitamin c,codeine,1
+paroxetine,amiodarone,3
+vitamin c,warfarin,1
+azithromycin,atorvastatin,3
+paracetamol,vitamin d,1
+simvastatin,paracetamol,1
+warfarin,probiotic,1
+lorazepam,sertraline,2
+pravastatin,erythromycin,3
+codeine,morphine,1
+morphine,clonazepam,3
+b12,diclofenac,1
+dexketoprofen,clarithromycin,1
+codeine,ibuprofen,1
+simvastatin,edoxaban,1
+clarithromycin,omeprazole,1
+rosuvastatin,acetaminophen,1
+esomeprazole,pantoprazole,1
+edoxaban,probiotic,1
+ketoprofen,b12,1
+paracetamol,naproxen,1
+diazepam,oxycodone,3
+dexketoprofen,morphine,1
+warfarin,tramadol,1
+codeine,esomeprazole,1
+sertraline,erythromycin,1
+dexketoprofen,paroxetine,2
+escitalopram,clonazepam,2
+clarithromycin,folic acid,1
+paracetamol,edoxaban,1
+clarithromycin,sertraline,1
+morphine,warfarin,1
+rivaroxaban,ibuprofen,1
+diazepam,escitalopram,2
+diclofenac,pantoprazole,1
+diclofenac,vitamin d,1
+naproxen,probiotic,1
+atorvastatin,dabigatran,1
+atorvastatin,pravastatin,1
+omeprazole,fluoxetine,1
+morphine,atorvastatin,1
+fluoxetine,azithromycin,1
+ibuprofen,atorvastatin,1
+rivaroxaban,dabigatran,1
+erythromycin,paracetamol,1
+dexketoprofen,edoxaban,1
+escitalopram,azithromycin,1
+dexketoprofen,simvastatin,1
+vitamin c,fluoxetine,1
+pantoprazole,edoxaban,1
+ibuprofen,pravastatin,1
+fluoxetine,azithromycin,1
+diazepam,clarithromycin,1
+folic acid,vitamin d,1
+pantoprazole,vitamin d,1
+clarithromycin,probiotic,1
+warfarin,esomeprazole,1
+clonazepam,paroxetine,2
+probiotic,tramadol,1
+pravastatin,azithromycin,3
+dabigatran,amiodarone,1
+naproxen,paracetamol,1
+rivaroxaban,omeprazole,1
+lorazepam,probiotic,1
+edoxaban,pantoprazole,1
+morphine,esomeprazole,1
+clarithromycin,lorazepam,1
+b12,naproxen,1
+ibuprofen,escitalopram,2
+paracetamol,azithromycin,1
+dabigatran,fluoxetine,1
+esomeprazole,diclofenac,1
+alprazolam,acetaminophen,1
+dabigatran,folic acid,1
+apixaban,morphine,1
+rivaroxaban,rosuvastatin,1
+omeprazole,clarithromycin,1
+lorazepam,naproxen,1
+morphine,dabigatran,1
+probiotic,vitamin c,1
+clonazepam,morphine,3
+ibuprofen,alprazolam,1
+diazepam,enterogermina,1
+naproxen,erythromycin,1
+apixaban,dexketoprofen,1
+omeprazole,warfarin,1
+rivaroxaban,diazepam,1
+warfarin,codeine,1
+clarithromycin,azithromycin,1
+pantoprazole,rivaroxaban,1
+escitalopram,edoxaban,1
+erythromycin,diclofenac,1
+enterogermina,esomeprazole,1
+folic acid,alprazolam,1
+edoxaban,ketoprofen,1
+lorazepam,atorvastatin,1
+escitalopram,ketoprofen,2
+apixaban,morphine,1
+warfarin,rivaroxaban,1
+edoxaban,rosuvastatin,1
+pantoprazole,vitamin c,1
+alprazolam,clarithromycin,1
+pravastatin,enterogermina,1
+simvastatin,pantoprazole,2
+diclofenac,clonazepam,1
+warfarin,folic acid,1
+rosuvastatin,diazepam,1
+dabigatran,morphine,1
+paracetamol,pantoprazole,1
+simvastatin,paracetamol,1
+fluoxetine,diazepam,2
+dexketoprofen,clonazepam,1
+diclofenac,clonazepam,1
+vitamin c,naproxen,1
+oxycodone,codeine,1
+acetaminophen,diclofenac,1
+simvastatin,enterogermina,1
+vitamin d,acetaminophen,1
+tramadol,diazepam,3
+erythromycin,simvastatin,3
+sertraline,amiodarone,3
+rivaroxaban,azithromycin,1
+clarithromycin,fluoxetine,1
+edoxaban,escitalopram,1
+rosuvastatin,oxycodone,1
+pantoprazole,probiotic,1
+sertraline,lorazepam,2
+diazepam,dexketoprofen,1
+ibuprofen,dabigatran,1
+morphine,paroxetine,2
+omeprazole,escitalopram,1
+b12,codeine,1
+esomeprazole,codeine,1
+omeprazole,probiotic,1
+enterogermina,naproxen,1
+b12,atorvastatin,1
+pravastatin,oxycodone,1
+lorazepam,b12,1
+paroxetine,atorvastatin,1
+pantoprazole,alprazolam,1
+morphine,pantoprazole,1
+edoxaban,dabigatran,1
+escitalopram,edoxaban,1
+dabigatran,erythromycin,1
+clonazepam,vitamin d,1
+folic acid,acetaminophen,1
+b12,clarithromycin,1
+edoxaban,paracetamol,1
+atorvastatin,tramadol,1
+escitalopram,esomeprazole,1
+esomeprazole,oxycodone,1
+pantoprazole,probiotic,1
+naproxen,alprazolam,1
+pantoprazole,b12,1
+paracetamol,alprazolam,1
+paracetamol,diclofenac,1
+pantoprazole,atorvastatin,2
+morphine,paroxetine,2
+lorazepam,paracetamol,1
+b12,amiodarone,1
+probiotic,clarithromycin,1
+omeprazole,morphine,1
+atorvastatin,tramadol,1
+codeine,pantoprazole,1
+rivaroxaban,tramadol,1
+edoxaban,oxycodone,1
+lorazepam,b12,1
+vitamin c,azithromycin,1
+vitamin c,apixaban,1
+pravastatin,omeprazole,2
+pantoprazole,edoxaban,1
+fluoxetine,alprazolam,2
+pravastatin,atorvastatin,1
+alprazolam,pravastatin,1
+fluoxetine,lorazepam,2
+atorvastatin,pantoprazole,2
+oxycodone,morphine,1
+clonazepam,diazepam,1
+erythromycin,ibuprofen,1
+codeine,edoxaban,1
+sertraline,edoxaban,1
+apixaban,warfarin,1
+vitamin c,azithromycin,1
+simvastatin,diclofenac,1
+ketoprofen,paracetamol,1
+erythromycin,probiotic,1
+lorazepam,acetaminophen,1
+dexketoprofen,escitalopram,2
+amiodarone,diclofenac,1
+azithromycin,dexketoprofen,1
+enterogermina,dabigatran,1
+clarithromycin,diazepam,1
+probiotic,pravastatin,1
+diazepam,omeprazole,1
+rivaroxaban,simvastatin,1
+diclofenac,naproxen,1
+erythromycin,ibuprofen,1
+lorazepam,apixaban,1
+morphine,warfarin,1
+paracetamol,atorvastatin,1
+oxycodone,vitamin c,1
+oxycodone,b12,1
+folic acid,escitalopram,1
+clarithromycin,ibuprofen,1
+apixaban,erythromycin,1
+escitalopram,diazepam,2
+erythromycin,tramadol,1
+probiotic,atorvastatin,1
+esomeprazole,lorazepam,1
+diclofenac,pantoprazole,1
+omeprazole,apixaban,1
+paracetamol,vitamin d,1
+dexketoprofen,enterogermina,1
+clarithromycin,amiodarone,3
+sertraline,edoxaban,1
+ketoprofen,amiodarone,1
+tramadol,amiodarone,1
+lorazepam,apixaban,1
+pantoprazole,ketoprofen,1
+dexketoprofen,edoxaban,1
+azithromycin,diclofenac,1
+rivaroxaban,probiotic,1
+enterogermina,warfarin,1
+pantoprazole,escitalopram,1
+rosuvastatin,alprazolam,1
+pravastatin,dexketoprofen,1
+sertraline,atorvastatin,1
+lorazepam,paroxetine,2
+probiotic,escitalopram,1
+diclofenac,folic acid,1
+ketoprofen,edoxaban,1
+escitalopram,tramadol,2
+naproxen,atorvastatin,1
+erythromycin,omeprazole,1
+clarithromycin,vitamin d,1
+ibuprofen,fluoxetine,2
+ketoprofen,b12,1
+dexketoprofen,fluoxetine,2
+rivaroxaban,warfarin,1
+dabigatran,folic acid,1
+warfarin,lorazepam,1
+sertraline,clonazepam,2
+apixaban,pantoprazole,1
+edoxaban,morphine,1
+fluoxetine,dabigatran,1
+atorvastatin,apixaban,1
+azithromycin,atorvastatin,3
+pantoprazole,enterogermina,1
+acetaminophen,dabigatran,1
+lorazepam,clonazepam,1
+amiodarone,rivaroxaban,1
+escitalopram,folic acid,1
+sertraline,alprazolam,2
+fluoxetine,acetaminophen,1
+lorazepam,azithromycin,1
+acetaminophen,pantoprazole,1
+pravastatin,azithromycin,3
+diazepam,azithromycin,1
+escitalopram,fluoxetine,1
+lorazepam,tramadol,3
+vitamin c,pravastatin,1
+folic acid,b12,1
+azithromycin,erythromycin,1
+codeine,enterogermina,1
+esomeprazole,dabigatran,1
+alprazolam,paracetamol,1
+erythromycin,simvastatin,3
+erythromycin,dexketoprofen,1
+omeprazole,edoxaban,1
+pravastatin,paracetamol,1
+alprazolam,lorazepam,1
+paracetamol,edoxaban,1
+rivaroxaban,dabigatran,1
+ibuprofen,vitamin d,1
+lorazepam,diazepam,1
+alprazolam,vitamin d,1
+vitamin d,clarithromycin,1
+clonazepam,folic acid,1
+clonazepam,tramadol,3
+esomeprazole,paroxetine,1
+pantoprazole,escitalopram,1
+esomeprazole,rivaroxaban,1
+omeprazole,amiodarone,1
+erythromycin,edoxaban,1
+fluoxetine,tramadol,2
+amiodarone,omeprazole,1
+diclofenac,apixaban,1
+lorazepam,omeprazole,1
+enterogermina,ketoprofen,1
+clonazepam,diazepam,1
+diclofenac,clarithromycin,1
+azithromycin,pravastatin,3
+dabigatran,amiodarone,1
+codeine,dexketoprofen,1
+probiotic,paracetamol,1
+lorazepam,rosuvastatin,1
+clonazepam,erythromycin,1
+amiodarone,alprazolam,3
+rosuvastatin,probiotic,1
+azithromycin,probiotic,1
+escitalopram,lorazepam,2
+escitalopram,ketoprofen,2
+pravastatin,probiotic,1
+atorvastatin,erythromycin,3
+alprazolam,enterogermina,1
+edoxaban,ibuprofen,1
+fluoxetine,acetaminophen,1
+morphine,erythromycin,1
+atorvastatin,diclofenac,1
+dabigatran,morphine,1
+apixaban,warfarin,1
+alprazolam,clarithromycin,1
+alprazolam,codeine,3
+erythromycin,b12,1
+clonazepam,vitamin d,1
+escitalopram,ibuprofen,2
+azithromycin,pravastatin,3
+paroxetine,tramadol,2
+probiotic,clonazepam,1
+vitamin d,ketoprofen,1
+azithromycin,ketoprofen,1
+diazepam,simvastatin,1
+oxycodone,alprazolam,3
+diclofenac,fluoxetine,2
+pantoprazole,ketoprofen,1
+paroxetine,ibuprofen,2
+folic acid,ketoprofen,1
+simvastatin,warfarin,1
+ibuprofen,folic acid,1
+apixaban,pravastatin,1
+dabigatran,naproxen,1
+folic acid,alprazolam,1
+probiotic,pravastatin,1
+folic acid,edoxaban,1
+clarithromycin,vitamin c,1
+erythromycin,pantoprazole,1
+diclofenac,paroxetine,2
+lorazepam,fluoxetine,2
+pravastatin,morphine,1
+atorvastatin,ibuprofen,1
+rivaroxaban,dexketoprofen,1
+dexketoprofen,rivaroxaban,1
+pantoprazole,diclofenac,1
+escitalopram,probiotic,1
+dexketoprofen,oxycodone,1
+acetaminophen,pravastatin,1
+naproxen,pravastatin,1
+codeine,sertraline,2
+vitamin d,codeine,1
+apixaban,esomeprazole,1
+paroxetine,pantoprazole,1
+erythromycin,paracetamol,1
+tramadol,pravastatin,1
+azithromycin,codeine,1
+oxycodone,acetaminophen,1
+tramadol,azithromycin,1
+rosuvastatin,diclofenac,1
+naproxen,amiodarone,1
+morphine,clarithromycin,1
+codeine,enterogermina,1
+amiodarone,acetaminophen,1
+azithromycin,dexketoprofen,1
+rivaroxaban,edoxaban,1
+amiodarone,pravastatin,1
+tramadol,simvastatin,1
+lorazepam,alprazolam,1
+azithromycin,clonazepam,1
+codeine,diclofenac,1
+warfarin,paroxetine,3
+clarithromycin,diclofenac,1
+erythromycin,alprazolam,1
+escitalopram,alprazolam,2
+enterogermina,erythromycin,1
+paroxetine,ibuprofen,2
+probiotic,vitamin c,1
+codeine,clarithromycin,1
+morphine,enterogermina,1
+rosuvastatin,lorazepam,1
+pantoprazole,rosuvastatin,2
+simvastatin,vitamin c,1
+diazepam,azithromycin,1
+apixaban,pantoprazole,1
+ketoprofen,rivaroxaban,1
+dabigatran,paroxetine,1
+oxycodone,simvastatin,1
+acetaminophen,vitamin d,1
+sertraline,esomeprazole,1
+rivaroxaban,paracetamol,1
+warfarin,paroxetine,3
+erythromycin,dabigatran,1
+esomeprazole,b12,1
+ibuprofen,paracetamol,1
+probiotic,warfarin,1
+acetaminophen,atorvastatin,1
+fluoxetine,simvastatin,1
+acetaminophen,b12,1
+atorvastatin,erythromycin,3
+pravastatin,omeprazole,2
+amiodarone,acetaminophen,1
+simvastatin,morphine,1
+diazepam,simvastatin,1
+amiodarone,apixaban,1
+atorvastatin,apixaban,1
+clarithromycin,vitamin d,1
+warfarin,rosuvastatin,1
+paracetamol,diclofenac,1
+sertraline,paroxetine,1
+esomeprazole,pravastatin,2
+azithromycin,ketoprofen,1
+b12,omeprazole,1
+omeprazole,rosuvastatin,2
+simvastatin,erythromycin,3
+warfarin,dabigatran,1
+probiotic,esomeprazole,1
+dexketoprofen,pravastatin,1
+amiodarone,paracetamol,1
+simvastatin,clonazepam,1
+simvastatin,folic acid,1
+erythromycin,tramadol,1
+omeprazole,amiodarone,1
+alprazolam,omeprazole,1
+amiodarone,erythromycin,3
+paracetamol,clarithromycin,1
+erythromycin,diazepam,1
+erythromycin,amiodarone,3
+diclofenac,edoxaban,1
+ibuprofen,edoxaban,1
+escitalopram,dabigatran,1
+paroxetine,simvastatin,1
+alprazolam,pravastatin,1
+rivaroxaban,codeine,1
+clonazepam,probiotic,1
+tramadol,pantoprazole,1
+pravastatin,escitalopram,1
+morphine,omeprazole,1
+folic acid,amiodarone,1
+escitalopram,fluoxetine,1
+b12,dabigatran,1
+paracetamol,rosuvastatin,1
+fluoxetine,erythromycin,1
+pravastatin,b12,1
+dabigatran,rosuvastatin,1
+diazepam,vitamin c,1
+enterogermina,diazepam,1
+rosuvastatin,erythromycin,3
+sertraline,atorvastatin,1
+acetaminophen,erythromycin,1
+dabigatran,b12,1
+clarithromycin,dexketoprofen,1
+oxycodone,tramadol,1
+dexketoprofen,clonazepam,1
+omeprazole,fluoxetine,1
+codeine,amiodarone,1
+diclofenac,acetaminophen,1
+edoxaban,vitamin c,1
+dabigatran,apixaban,1
+pravastatin,clarithromycin,3
+dabigatran,folic acid,1
+tramadol,warfarin,1
+paroxetine,amiodarone,3
+paracetamol,vitamin c,1
+ibuprofen,tramadol,1
+clarithromycin,esomeprazole,1
+escitalopram,paracetamol,1
+omeprazole,diazepam,1
+codeine,pravastatin,1
+enterogermina,ibuprofen,1
+diclofenac,pantoprazole,1
+edoxaban,vitamin d,1
+edoxaban,acetaminophen,1
+edoxaban,fluoxetine,1
+naproxen,tramadol,1
+diclofenac,acetaminophen,1
+atorvastatin,oxycodone,1
+escitalopram,warfarin,3
+atorvastatin,morphine,1
+vitamin d,omeprazole,1
+codeine,morphine,1
+diclofenac,diazepam,1
+ibuprofen,alprazolam,1
+morphine,pantoprazole,1
+acetaminophen,warfarin,1
+vitamin c,azithromycin,1
+morphine,codeine,1
+folic acid,esomeprazole,1
+pravastatin,dexketoprofen,1
+vitamin d,clonazepam,1
+simvastatin,paroxetine,1
+dexketoprofen,oxycodone,1
+pantoprazole,oxycodone,1
+clonazepam,folic acid,1
+paroxetine,fluoxetine,1
+dabigatran,b12,1
+b12,vitamin c,1
+enterogermina,diclofenac,1
+ibuprofen,erythromycin,1
+paracetamol,pravastatin,1
+vitamin d,enterogermina,1
+acetaminophen,esomeprazole,1
+omeprazole,azithromycin,1
+escitalopram,azithromycin,1
+pantoprazole,ketoprofen,1
+b12,clarithromycin,1
+folic acid,dexketoprofen,1
+vitamin d,atorvastatin,1
+clonazepam,ibuprofen,1
+fluoxetine,warfarin,3
+naproxen,probiotic,1
+acetaminophen,esomeprazole,1
+rivaroxaban,apixaban,1
+erythromycin,omeprazole,1
+dexketoprofen,paracetamol,1
+edoxaban,rivaroxaban,1
+rosuvastatin,amiodarone,1
+paracetamol,dabigatran,1
+atorvastatin,morphine,1
+apixaban,atorvastatin,1
+pravastatin,azithromycin,3
+tramadol,simvastatin,1
+rosuvastatin,warfarin,1
+erythromycin,rosuvastatin,3
+alprazolam,clarithromycin,1
+lorazepam,enterogermina,1
+amiodarone,pravastatin,1
+rosuvastatin,atorvastatin,1
+erythromycin,pantoprazole,1
+enterogermina,dabigatran,1
+dabigatran,b12,1
+alprazolam,oxycodone,3
+oxycodone,paracetamol,1
+escitalopram,esomeprazole,1
+fluoxetine,pantoprazole,1
+ketoprofen,vitamin c,1
+rivaroxaban,codeine,1
+esomeprazole,paracetamol,1
+sertraline,lorazepam,2
+vitamin c,apixaban,1
+erythromycin,apixaban,1
+acetaminophen,b12,1
+vitamin d,pravastatin,1
+b12,erythromycin,1
+clarithromycin,diclofenac,1
+folic acid,vitamin c,1
+edoxaban,vitamin d,1
+ketoprofen,rivaroxaban,1
+sertraline,ketoprofen,2
+paracetamol,pravastatin,1
+diclofenac,atorvastatin,1
+esomeprazole,folic acid,1
+azithromycin,codeine,1
+rivaroxaban,codeine,1
+fluoxetine,escitalopram,1
+codeine,esomeprazole,1
+clonazepam,azithromycin,1
+warfarin,amiodarone,3
+rosuvastatin,simvastatin,1
+erythromycin,enterogermina,1
+azithromycin,vitamin d,1
+clonazepam,ibuprofen,1
+sertraline,paracetamol,1
+naproxen,paracetamol,1
+folic acid,diclofenac,1
+pravastatin,diazepam,1
+folic acid,dabigatran,1
+vitamin c,amiodarone,1
+amiodarone,rivaroxaban,1
+atorvastatin,warfarin,1
+fluoxetine,erythromycin,1
+oxycodone,omeprazole,1
+ibuprofen,acetaminophen,1
+esomeprazole,probiotic,1
+codeine,vitamin c,1
+paracetamol,codeine,1
+pantoprazole,enterogermina,1
+esomeprazole,paroxetine,1
+clonazepam,lorazepam,1
+tramadol,erythromycin,1
+rivaroxaban,rosuvastatin,1
+oxycodone,alprazolam,3
+acetaminophen,edoxaban,1
+simvastatin,clonazepam,1
+omeprazole,codeine,1
+folic acid,ketoprofen,1
+codeine,warfarin,1
+codeine,vitamin d,1
+alprazolam,erythromycin,1
+edoxaban,vitamin d,1
+clonazepam,oxycodone,3
+amiodarone,pravastatin,1
+enterogermina,folic acid,1
+alprazolam,diazepam,1
+sertraline,lorazepam,2
+tramadol,vitamin d,1
+erythromycin,paroxetine,1
+sertraline,paroxetine,1
+oxycodone,rosuvastatin,1
+codeine,naproxen,1
+fluoxetine,atorvastatin,1
+rosuvastatin,enterogermina,1
+dabigatran,clarithromycin,1
+diclofenac,amiodarone,1
+diazepam,edoxaban,1
+esomeprazole,lorazepam,1
+dexketoprofen,dabigatran,1
+escitalopram,naproxen,2
+pravastatin,rosuvastatin,1
+tramadol,amiodarone,1
+diclofenac,clarithromycin,1
+rivaroxaban,oxycodone,1
+naproxen,enterogermina,1
+esomeprazole,erythromycin,1
+probiotic,warfarin,1
+enterogermina,lorazepam,1
+dabigatran,rosuvastatin,1
+vitamin d,enterogermina,1
+ibuprofen,azithromycin,1
+oxycodone,paroxetine,2
+diclofenac,edoxaban,1
+azithromycin,fluoxetine,1
+lorazepam,pantoprazole,1
+tramadol,vitamin d,1
+dexketoprofen,paroxetine,2
+paracetamol,paroxetine,1
+fluoxetine,atorvastatin,1
+dabigatran,b12,1
+simvastatin,paracetamol,1
+clarithromycin,tramadol,1
+pravastatin,tramadol,1
+sertraline,probiotic,1
+pravastatin,dexketoprofen,1
+pravastatin,edoxaban,1
+clonazepam,omeprazole,1
+b12,fluoxetine,1
+esomeprazole,ketoprofen,1
+ketoprofen,clarithromycin,1
+rosuvastatin,morphine,1
+ketoprofen,escitalopram,2
+paroxetine,clarithromycin,1
+morphine,diazepam,3
+azithromycin,dabigatran,1
+erythromycin,probiotic,1
+pravastatin,clarithromycin,3
+rivaroxaban,sertraline,1
+clarithromycin,probiotic,1
+warfarin,enterogermina,1
+pantoprazole,paroxetine,1
+folic acid,vitamin c,1
+oxycodone,edoxaban,1
+fluoxetine,b12,1
+dexketoprofen,pantoprazole,1
+dexketoprofen,simvastatin,1
+atorvastatin,paracetamol,1
+naproxen,atorvastatin,1
+rivaroxaban,vitamin d,1
+pantoprazole,lorazepam,1
+lorazepam,oxycodone,3
+oxycodone,diazepam,3
+erythromycin,dabigatran,1
+escitalopram,oxycodone,2
+omeprazole,rivaroxaban,1
+vitamin c,erythromycin,1
+naproxen,b12,1
+ibuprofen,pravastatin,1
+dexketoprofen,warfarin,3
+clarithromycin,esomeprazole,1
+pravastatin,rivaroxaban,1
+warfarin,morphine,1
+erythromycin,fluoxetine,1
+paroxetine,warfarin,3
+clonazepam,paroxetine,2
+azithromycin,vitamin c,1
+ibuprofen,atorvastatin,1
+naproxen,alprazolam,1
+codeine,atorvastatin,1
+ketoprofen,b12,1
+alprazolam,acetaminophen,1
+oxycodone,clarithromycin,1
+apixaban,folic acid,1
+folic acid,erythromycin,1
+acetaminophen,diclofenac,1
+erythromycin,sertraline,1
+b12,alprazolam,1
+fluoxetine,omeprazole,1
+probiotic,diazepam,1
+edoxaban,ketoprofen,1
+ketoprofen,edoxaban,1
+b12,atorvastatin,1
+clarithromycin,sertraline,1
+edoxaban,clarithromycin,1
+esomeprazole,oxycodone,1
+codeine,tramadol,1
+naproxen,clarithromycin,1
+probiotic,vitamin c,1
+alprazolam,ketoprofen,1
+fluoxetine,erythromycin,1
+lorazepam,fluoxetine,2
+amiodarone,probiotic,1
+alprazolam,codeine,3
+apixaban,escitalopram,1
+edoxaban,fluoxetine,1
+lorazepam,warfarin,1
+fluoxetine,amiodarone,3
+pantoprazole,erythromycin,1
+erythromycin,tramadol,1
+escitalopram,sertraline,1
+tramadol,vitamin d,1
+clarithromycin,rosuvastatin,3
+b12,azithromycin,1
+diclofenac,ketoprofen,1
+pantoprazole,alprazolam,1
+pravastatin,codeine,1
+enterogermina,pantoprazole,1
+tramadol,clarithromycin,1
+clarithromycin,rosuvastatin,3
+acetaminophen,ibuprofen,1
+edoxaban,dabigatran,1
+tramadol,folic acid,1
+amiodarone,fluoxetine,3
+morphine,azithromycin,1
+erythromycin,dabigatran,1
+rivaroxaban,pravastatin,1
+clarithromycin,paracetamol,1
+azithromycin,apixaban,1
+sertraline,paroxetine,1
+azithromycin,omeprazole,1
+oxycodone,ibuprofen,1
+clonazepam,morphine,3
+paracetamol,folic acid,1
+azithromycin,tramadol,1
+diazepam,dabigatran,1
+lorazepam,oxycodone,3
+paracetamol,enterogermina,1
+folic acid,alprazolam,1
+enterogermina,apixaban,1
+folic acid,diclofenac,1
+erythromycin,tramadol,1
+diclofenac,simvastatin,1
+apixaban,clarithromycin,1
+dexketoprofen,clarithromycin,1
+alprazolam,paracetamol,1
+sertraline,omeprazole,1
+escitalopram,tramadol,2
+edoxaban,probiotic,1
+fluoxetine,pravastatin,1
+paroxetine,amiodarone,3
+pravastatin,escitalopram,1
+erythromycin,rivaroxaban,1
+diclofenac,pravastatin,1
+clarithromycin,erythromycin,3
+folic acid,azithromycin,1
+alprazolam,ibuprofen,1
+rosuvastatin,vitamin c,1
+lorazepam,b12,1
+acetaminophen,erythromycin,1
+tramadol,acetaminophen,1
+vitamin d,edoxaban,1
+morphine,dabigatran,1
+dabigatran,dexketoprofen,1
+dabigatran,diclofenac,1
+pravastatin,edoxaban,1
+probiotic,escitalopram,1
+clarithromycin,probiotic,1
+clonazepam,azithromycin,1
+b12,azithromycin,1
+edoxaban,clonazepam,1
+pravastatin,escitalopram,1
+codeine,azithromycin,1
+dexketoprofen,alprazolam,1
+dabigatran,alprazolam,1
+omeprazole,diazepam,1
+rosuvastatin,clonazepam,1
+rosuvastatin,codeine,1
+fluoxetine,dexketoprofen,2
+paracetamol,dabigatran,1
+warfarin,atorvastatin,1
+enterogermina,diclofenac,1
+oxycodone,amiodarone,1
+b12,fluoxetine,1
+clarithromycin,diclofenac,1
+rivaroxaban,dabigatran,1
+paracetamol,acetaminophen,1
+atorvastatin,vitamin c,1
+azithromycin,erythromycin,1
+omeprazole,vitamin c,1
+fluoxetine,b12,1
+omeprazole,warfarin,1
+edoxaban,amiodarone,1
+sertraline,tramadol,2
+oxycodone,diclofenac,1
+dexketoprofen,vitamin d,1
+pravastatin,enterogermina,1
+dexketoprofen,paroxetine,2
+diclofenac,diazepam,1
+omeprazole,clonazepam,1
+paracetamol,naproxen,1
+amiodarone,b12,1
+lorazepam,paroxetine,2
+lorazepam,oxycodone,3
+azithromycin,ketoprofen,1
+paracetamol,erythromycin,1
+lorazepam,omeprazole,1
+sertraline,probiotic,1
+rosuvastatin,warfarin,1
+sertraline,acetaminophen,1
+fluoxetine,alprazolam,2
+vitamin d,atorvastatin,1
+diazepam,pantoprazole,1
+edoxaban,fluoxetine,1
+dexketoprofen,codeine,1
+warfarin,diazepam,1
+morphine,erythromycin,1
+rivaroxaban,diazepam,1
+dexketoprofen,rivaroxaban,1
+dexketoprofen,clarithromycin,1
+folic acid,naproxen,1
+erythromycin,azithromycin,1
+amiodarone,clarithromycin,3
+clarithromycin,ketoprofen,1
+enterogermina,tramadol,1
+naproxen,diazepam,1
+acetaminophen,lorazepam,1
+amiodarone,diclofenac,1
+acetaminophen,esomeprazole,1
+erythromycin,clarithromycin,3
+atorvastatin,oxycodone,1
+rosuvastatin,clarithromycin,3
+edoxaban,azithromycin,1
+vitamin c,b12,1
+folic acid,paroxetine,1
+codeine,amiodarone,1
+tramadol,simvastatin,1
+pravastatin,amiodarone,1
+dexketoprofen,warfarin,3
+vitamin d,clonazepam,1
+tramadol,pantoprazole,1
+paroxetine,rosuvastatin,1
+erythromycin,erythromycin,1
+lorazepam,dexketoprofen,1
+fluoxetine,escitalopram,1
+lorazepam,dexketoprofen,1
+diazepam,warfarin,1
+clarithromycin,naproxen,1
+vitamin c,ketoprofen,1
+simvastatin,apixaban,1
+dabigatran,fluoxetine,1
+paracetamol,dabigatran,1
+folic acid,enterogermina,1
+rivaroxaban,esomeprazole,1
+b12,clarithromycin,1
+azithromycin,diazepam,1
+omeprazole,pantoprazole,1
+clarithromycin,omeprazole,1
+atorvastatin,dexketoprofen,1
+erythromycin,naproxen,1
+dexketoprofen,warfarin,3
+fluoxetine,paroxetine,1
+esomeprazole,pantoprazole,1
+apixaban,pravastatin,1
+oxycodone,apixaban,1
+simvastatin,omeprazole,2
+simvastatin,clarithromycin,3
+probiotic,esomeprazole,1
+edoxaban,morphine,1
+rosuvastatin,lorazepam,1
+rosuvastatin,simvastatin,1
+edoxaban,clonazepam,1
+warfarin,escitalopram,3
+omeprazole,simvastatin,2
+fluoxetine,sertraline,1
+paracetamol,b12,1
+folic acid,omeprazole,1
+pantoprazole,omeprazole,1
+clarithromycin,clarithromycin,1
+pantoprazole,alprazolam,1
+naproxen,vitamin d,1
+esomeprazole,ketoprofen,1
+folic acid,edoxaban,1
+codeine,erythromycin,1
+alprazolam,dexketoprofen,1
+atorvastatin,vitamin d,1
+rivaroxaban,probiotic,1
+paracetamol,vitamin d,1
+escitalopram,apixaban,1
+simvastatin,clarithromycin,3
+vitamin d,lorazepam,1
+folic acid,sertraline,1
+erythromycin,probiotic,1
+fluoxetine,diclofenac,2
+ketoprofen,acetaminophen,1
+vitamin c,paroxetine,1
+codeine,diazepam,3
+enterogermina,apixaban,1
+pravastatin,edoxaban,1
+b12,dabigatran,1
+paroxetine,warfarin,3
+probiotic,fluoxetine,1
+dabigatran,fluoxetine,1
+acetaminophen,clonazepam,1
+ketoprofen,probiotic,1
+erythromycin,simvastatin,3
+b12,azithromycin,1
+clarithromycin,omeprazole,1
+ibuprofen,warfarin,3
+esomeprazole,ketoprofen,1
+b12,edoxaban,1
+edoxaban,paroxetine,1
+b12,morphine,1
+atorvastatin,acetaminophen,1
+apixaban,atorvastatin,1
+amiodarone,vitamin c,1
+diazepam,dexketoprofen,1
+ibuprofen,fluoxetine,2
+edoxaban,ketoprofen,1
+rivaroxaban,sertraline,1
+fluoxetine,apixaban,1
+ibuprofen,vitamin c,1
+azithromycin,diazepam,1
+diazepam,rosuvastatin,1
+erythromycin,morphine,1
+rosuvastatin,edoxaban,1
+erythromycin,esomeprazole,1
+erythromycin,fluoxetine,1
+morphine,edoxaban,1
+ibuprofen,paracetamol,1
+clonazepam,alprazolam,1
+ibuprofen,tramadol,1
+codeine,rosuvastatin,1
+diazepam,b12,1
+clonazepam,ketoprofen,1
+simvastatin,pantoprazole,2
+naproxen,tramadol,1
+probiotic,omeprazole,1
+ibuprofen,ketoprofen,1
+enterogermina,atorvastatin,1
+vitamin c,probiotic,1
+sertraline,vitamin d,1
+sertraline,warfarin,3
+oxycodone,diclofenac,1
+alprazolam,edoxaban,1
+pravastatin,b12,1
+apixaban,paracetamol,1
+fluoxetine,warfarin,3
+acetaminophen,rivaroxaban,1
+probiotic,simvastatin,1
+oxycodone,edoxaban,1
+escitalopram,rosuvastatin,1
+clarithromycin,tramadol,1
+folic acid,naproxen,1
+clarithromycin,edoxaban,1
+enterogermina,rivaroxaban,1
+rivaroxaban,clarithromycin,1
+pravastatin,alprazolam,1
+warfarin,erythromycin,3
+esomeprazole,edoxaban,1
+dexketoprofen,clarithromycin,1
+acetaminophen,amiodarone,1
+ketoprofen,diclofenac,1
+esomeprazole,ibuprofen,1
+ketoprofen,azithromycin,1
+pantoprazole,esomeprazole,1
+diazepam,b12,1
+diclofenac,amiodarone,1
+morphine,paroxetine,2
+ketoprofen,probiotic,1
+vitamin c,omeprazole,1
+erythromycin,alprazolam,1
+rivaroxaban,ketoprofen,1
+acetaminophen,dexketoprofen,1
+oxycodone,atorvastatin,1
+fluoxetine,edoxaban,1
+folic acid,naproxen,1
+paracetamol,edoxaban,1
+oxycodone,folic acid,1
+naproxen,rivaroxaban,1
+erythromycin,codeine,1
+vitamin d,ibuprofen,1
+rosuvastatin,warfarin,1
+morphine,ketoprofen,1
+paroxetine,vitamin c,1
+probiotic,oxycodone,1
+dabigatran,erythromycin,1
+enterogermina,rosuvastatin,1
+clonazepam,omeprazole,1
+vitamin d,sertraline,1
+codeine,amiodarone,1
+dexketoprofen,naproxen,1
+dexketoprofen,omeprazole,1
+vitamin c,naproxen,1
+clarithromycin,probiotic,1
+paracetamol,esomeprazole,1
+probiotic,azithromycin,1
+apixaban,omeprazole,1
+vitamin d,folic acid,1
+oxycodone,clarithromycin,1
+edoxaban,diclofenac,1
+tramadol,dabigatran,1
+diazepam,probiotic,1
+rosuvastatin,amiodarone,1
+erythromycin,dexketoprofen,1
+naproxen,escitalopram,2
+pravastatin,folic acid,1
+lorazepam,naproxen,1
+vitamin c,escitalopram,1
+dexketoprofen,clarithromycin,1
+diclofenac,paracetamol,1
+rosuvastatin,ketoprofen,1
+enterogermina,atorvastatin,1
+probiotic,vitamin c,1
+edoxaban,rivaroxaban,1
+dexketoprofen,atorvastatin,1
+vitamin c,probiotic,1
+paracetamol,clarithromycin,1
+sertraline,oxycodone,2
+clarithromycin,fluoxetine,1
+acetaminophen,clarithromycin,1
+azithromycin,ibuprofen,1
+apixaban,ketoprofen,1
+esomeprazole,clarithromycin,1
+dabigatran,erythromycin,1
+fluoxetine,paracetamol,1
+tramadol,morphine,1
+dexketoprofen,erythromycin,1
+simvastatin,clarithromycin,3
+warfarin,amiodarone,3
+rosuvastatin,paracetamol,1
+erythromycin,escitalopram,1
+clarithromycin,ketoprofen,1
+vitamin c,paroxetine,1
+clonazepam,ibuprofen,1
+folic acid,diclofenac,1
+clarithromycin,atorvastatin,3
+lorazepam,simvastatin,1
+vitamin c,folic acid,1
+diclofenac,paracetamol,1
+folic acid,dexketoprofen,1
+erythromycin,vitamin d,1
+omeprazole,alprazolam,1
+edoxaban,erythromycin,1
+pantoprazole,erythromycin,1
+warfarin,erythromycin,3
+dabigatran,probiotic,1
+erythromycin,b12,1
+simvastatin,azithromycin,3
+acetaminophen,enterogermina,1
+ketoprofen,codeine,1
+clonazepam,warfarin,1
+paracetamol,dexketoprofen,1
+vitamin d,paracetamol,1
+sertraline,alprazolam,2
+dabigatran,sertraline,1
+simvastatin,vitamin c,1
+simvastatin,diclofenac,1
+ketoprofen,warfarin,3
+dexketoprofen,codeine,1
+pravastatin,lorazepam,1
+edoxaban,sertraline,1
+diazepam,paracetamol,1
+amiodarone,paroxetine,3
+clonazepam,fluoxetine,2
+sertraline,omeprazole,1
+pravastatin,paracetamol,1
+apixaban,codeine,1
+rosuvastatin,paroxetine,1
+atorvastatin,dabigatran,1
+clarithromycin,amiodarone,3
+warfarin,codeine,1
+warfarin,vitamin c,1
+azithromycin,folic acid,1
+clarithromycin,probiotic,1
+fluoxetine,dabigatran,1
+warfarin,morphine,1
+fluoxetine,dexketoprofen,2
+lorazepam,atorvastatin,1
+acetaminophen,rivaroxaban,1
+morphine,vitamin d,1
+morphine,dexketoprofen,1
+escitalopram,sertraline,1
+rivaroxaban,erythromycin,1
+paracetamol,warfarin,1
+tramadol,folic acid,1
+simvastatin,omeprazole,2
+erythromycin,erythromycin,1
+erythromycin,lorazepam,1
+pravastatin,diclofenac,1
+omeprazole,clarithromycin,1
+alprazolam,b12,1
+rosuvastatin,ketoprofen,1
+atorvastatin,probiotic,1
+fluoxetine,naproxen,2
+warfarin,sertraline,3
+oxycodone,folic acid,1
+dabigatran,ketoprofen,1
+acetaminophen,atorvastatin,1
+edoxaban,escitalopram,1
+edoxaban,enterogermina,1
+atorvastatin,pantoprazole,2
+pravastatin,fluoxetine,1
+erythromycin,codeine,1
+dexketoprofen,vitamin c,1
+codeine,erythromycin,1
+naproxen,apixaban,1
+naproxen,pantoprazole,1
+rosuvastatin,esomeprazole,2
+ibuprofen,dexketoprofen,1
+edoxaban,vitamin c,1
+b12,ketoprofen,1
+pravastatin,escitalopram,1
+pantoprazole,folic acid,1
+diazepam,codeine,3
+rosuvastatin,esomeprazole,2
+ibuprofen,omeprazole,1
+erythromycin,codeine,1
+paracetamol,escitalopram,1
+tramadol,paracetamol,1
+dabigatran,vitamin d,1
+fluoxetine,dexketoprofen,2
+fluoxetine,sertraline,1
+ketoprofen,clarithromycin,1
+folic acid,edoxaban,1
+rosuvastatin,clarithromycin,3
+alprazolam,b12,1
+diazepam,warfarin,1
+erythromycin,edoxaban,1
+simvastatin,rosuvastatin,1
+acetaminophen,folic acid,1
+omeprazole,amiodarone,1
+rosuvastatin,b12,1
+azithromycin,probiotic,1
+paroxetine,vitamin d,1
+morphine,vitamin c,1
+oxycodone,diclofenac,1
+dexketoprofen,clarithromycin,1
+folic acid,b12,1
+probiotic,pantoprazole,1
+dabigatran,probiotic,1
+vitamin c,escitalopram,1
+azithromycin,clarithromycin,1
+diazepam,warfarin,1
+rivaroxaban,probiotic,1
+ketoprofen,rivaroxaban,1
+paroxetine,pantoprazole,1
+diazepam,fluoxetine,2
+azithromycin,codeine,1
+acetaminophen,vitamin c,1
+rosuvastatin,erythromycin,3
+omeprazole,edoxaban,1
+amiodarone,rosuvastatin,1
+apixaban,folic acid,1
+ibuprofen,dabigatran,1
+atorvastatin,lorazepam,1
+probiotic,azithromycin,1
+rivaroxaban,sertraline,1
+diazepam,diclofenac,1
+diclofenac,codeine,1
+alprazolam,lorazepam,1
+pantoprazole,tramadol,1
+diazepam,alprazolam,1
+tramadol,clonazepam,3
+diclofenac,diazepam,1
+edoxaban,dexketoprofen,1
+apixaban,oxycodone,1
+warfarin,acetaminophen,1
+dexketoprofen,edoxaban,1
+vitamin c,simvastatin,1
+pravastatin,b12,1
+rivaroxaban,tramadol,1
+warfarin,clarithromycin,3
+paracetamol,dabigatran,1
+oxycodone,amiodarone,1
+simvastatin,pantoprazole,2
+ketoprofen,probiotic,1
+enterogermina,lorazepam,1
+clarithromycin,oxycodone,1
+dabigatran,diclofenac,1
+ibuprofen,vitamin c,1
+alprazolam,vitamin c,1
+b12,atorvastatin,1
+pravastatin,ibuprofen,1
+azithromycin,codeine,1
+simvastatin,dabigatran,1
+simvastatin,alprazolam,1
+pravastatin,sertraline,1
+sertraline,morphine,2
+amiodarone,pravastatin,1
+sertraline,oxycodone,2
+dexketoprofen,codeine,1
+erythromycin,lorazepam,1
+ibuprofen,pravastatin,1
+atorvastatin,diclofenac,1
+sertraline,edoxaban,1
+naproxen,simvastatin,1
+clarithromycin,acetaminophen,1
+lorazepam,clonazepam,1
+dexketoprofen,lorazepam,1
+alprazolam,esomeprazole,1
+erythromycin,acetaminophen,1
+clarithromycin,escitalopram,1
+tramadol,dabigatran,1
+lorazepam,enterogermina,1
+warfarin,diclofenac,3
+oxycodone,warfarin,1
+lorazepam,edoxaban,1
+paracetamol,apixaban,1
+dabigatran,clarithromycin,1
+lorazepam,simvastatin,1
+paroxetine,clarithromycin,1
+ibuprofen,clarithromycin,1
+enterogermina,clarithromycin,1
+codeine,escitalopram,2
+azithromycin,lorazepam,1
+alprazolam,edoxaban,1
+alprazolam,esomeprazole,1
+fluoxetine,folic acid,1
+simvastatin,apixaban,1
+rosuvastatin,oxycodone,1
+edoxaban,pantoprazole,1
+pravastatin,rivaroxaban,1
+rosuvastatin,enterogermina,1
+escitalopram,morphine,2
+sertraline,apixaban,1
+lorazepam,azithromycin,1
+rivaroxaban,amiodarone,1
+paroxetine,edoxaban,1
+apixaban,vitamin d,1
+pantoprazole,esomeprazole,1
+omeprazole,clarithromycin,1
+dexketoprofen,fluoxetine,2
+acetaminophen,fluoxetine,1
+folic acid,vitamin c,1
+escitalopram,naproxen,2
+naproxen,rivaroxaban,1
+esomeprazole,vitamin d,1
+morphine,apixaban,1
+clarithromycin,naproxen,1
+rosuvastatin,naproxen,1
+lorazepam,amiodarone,3
+folic acid,diclofenac,1
+edoxaban,omeprazole,1
+probiotic,esomeprazole,1
+oxycodone,pantoprazole,1
+vitamin c,edoxaban,1
+probiotic,azithromycin,1
+tramadol,enterogermina,1
+pravastatin,morphine,1
+clarithromycin,dabigatran,1
+escitalopram,diazepam,2
+naproxen,erythromycin,1
+omeprazole,dexketoprofen,1
+naproxen,dabigatran,1
+paroxetine,atorvastatin,1
+edoxaban,vitamin c,1
+alprazolam,erythromycin,1
+ketoprofen,diazepam,1
+rosuvastatin,dexketoprofen,1
+vitamin d,probiotic,1
+acetaminophen,ketoprofen,1
+ibuprofen,acetaminophen,1
+dabigatran,tramadol,1
+rosuvastatin,sertraline,1
+vitamin d,lorazepam,1
+diazepam,paracetamol,1
+simvastatin,rosuvastatin,1
+alprazolam,clarithromycin,1
+enterogermina,pantoprazole,1
+probiotic,codeine,1
+rosuvastatin,omeprazole,2
+tramadol,oxycodone,1
+morphine,fluoxetine,2
+paroxetine,azithromycin,1
+dexketoprofen,diazepam,1
+erythromycin,ibuprofen,1
+azithromycin,warfarin,3
+erythromycin,warfarin,3
+fluoxetine,diclofenac,2
+paracetamol,clonazepam,1
+clarithromycin,tramadol,1
+edoxaban,esomeprazole,1
+dabigatran,pantoprazole,1
+enterogermina,azithromycin,1
+alprazolam,clarithromycin,1
+clonazepam,dabigatran,1
+alprazolam,oxycodone,3
+atorvastatin,rosuvastatin,1
+ketoprofen,dexketoprofen,1
+ibuprofen,oxycodone,1
+probiotic,tramadol,1
+tramadol,atorvastatin,1
+fluoxetine,omeprazole,1
+azithromycin,morphine,1
+azithromycin,diazepam,1
+apixaban,ibuprofen,1
+erythromycin,lorazepam,1
+azithromycin,paracetamol,1
+clonazepam,morphine,3
+enterogermina,vitamin c,1
+probiotic,enterogermina,1
+diazepam,ketoprofen,1
+tramadol,erythromycin,1
+tramadol,diclofenac,1
+amiodarone,vitamin d,1
+simvastatin,warfarin,1
+sertraline,dabigatran,1
+warfarin,diclofenac,3
+dabigatran,probiotic,1
+paroxetine,atorvastatin,1
+amiodarone,b12,1
+enterogermina,fluoxetine,1
+vitamin c,acetaminophen,1
+clarithromycin,probiotic,1
+edoxaban,ketoprofen,1
+edoxaban,vitamin d,1
+oxycodone,vitamin c,1
+omeprazole,ibuprofen,1
+rivaroxaban,ibuprofen,1
+paracetamol,lorazepam,1
+naproxen,rivaroxaban,1
+tramadol,vitamin c,1
+morphine,lorazepam,3
+esomeprazole,clarithromycin,1
+codeine,paroxetine,2
+tramadol,b12,1
+vitamin c,rosuvastatin,1
+rosuvastatin,codeine,1
+enterogermina,fluoxetine,1
+atorvastatin,warfarin,1
+vitamin c,diazepam,1
+edoxaban,codeine,1
+morphine,warfarin,1
+tramadol,paroxetine,2
+erythromycin,folic acid,1
+paroxetine,edoxaban,1
+apixaban,enterogermina,1
+morphine,clarithromycin,1
+amiodarone,acetaminophen,1
+dexketoprofen,paracetamol,1
+amiodarone,erythromycin,3
+vitamin c,morphine,1
+erythromycin,alprazolam,1
+morphine,esomeprazole,1
+ibuprofen,warfarin,3
+vitamin c,edoxaban,1
+folic acid,tramadol,1
+acetaminophen,pantoprazole,1
+ketoprofen,dexketoprofen,1
+erythromycin,enterogermina,1
+escitalopram,paroxetine,1
+diclofenac,sertraline,2
+morphine,dabigatran,1
+ibuprofen,dexketoprofen,1
+ibuprofen,clarithromycin,1
+dexketoprofen,apixaban,1
+dexketoprofen,erythromycin,1
+atorvastatin,dexketoprofen,1
+oxycodone,warfarin,1
+acetaminophen,codeine,1
+clarithromycin,warfarin,3
+probiotic,dexketoprofen,1
+edoxaban,sertraline,1
+amiodarone,ibuprofen,1
+paroxetine,pantoprazole,1
+morphine,esomeprazole,1
+clonazepam,pantoprazole,1
+rivaroxaban,pravastatin,1
+vitamin d,clarithromycin,1
+vitamin c,alprazolam,1
+fluoxetine,naproxen,2
+lorazepam,simvastatin,1
+codeine,fluoxetine,2
+warfarin,vitamin c,1
+apixaban,naproxen,1
+folic acid,oxycodone,1
+naproxen,tramadol,1
+diazepam,pravastatin,1
+lorazepam,vitamin d,1
+escitalopram,rivaroxaban,1
+dabigatran,b12,1
+dexketoprofen,escitalopram,2
+lorazepam,amiodarone,3
+clarithromycin,omeprazole,1
+acetaminophen,paracetamol,1
+vitamin c,rivaroxaban,1
+paroxetine,edoxaban,1
+vitamin c,omeprazole,1
+clarithromycin,oxycodone,1
+azithromycin,simvastatin,3
+diclofenac,clarithromycin,1
+apixaban,diclofenac,1
+enterogermina,amiodarone,1
+vitamin d,rivaroxaban,1
+simvastatin,erythromycin,3
+b12,oxycodone,1
+tramadol,vitamin c,1
+fluoxetine,omeprazole,1
+amiodarone,clarithromycin,3
+edoxaban,ibuprofen,1
+warfarin,dabigatran,1
+esomeprazole,probiotic,1
+lorazepam,morphine,3
+paracetamol,lorazepam,1
+alprazolam,clarithromycin,1
+oxycodone,escitalopram,2
+clarithromycin,lorazepam,1
+amiodarone,simvastatin,1
+amiodarone,clarithromycin,3
+clarithromycin,simvastatin,3
+probiotic,omeprazole,1
+paracetamol,esomeprazole,1
+apixaban,simvastatin,1
+folic acid,vitamin d,1
+naproxen,simvastatin,1
+naproxen,oxycodone,1
+diclofenac,apixaban,1
+clarithromycin,amiodarone,3
+erythromycin,paracetamol,1
+morphine,amiodarone,1
+pravastatin,lorazepam,1
+erythromycin,acetaminophen,1
+vitamin c,rosuvastatin,1
+clarithromycin,erythromycin,3
+escitalopram,folic acid,1
+rosuvastatin,simvastatin,1
+b12,erythromycin,1
+paroxetine,dexketoprofen,2
+paroxetine,amiodarone,3
+diclofenac,oxycodone,1
+fluoxetine,omeprazole,1
+tramadol,edoxaban,1
+ibuprofen,esomeprazole,1
+fluoxetine,pantoprazole,1
+ibuprofen,rosuvastatin,1
+tramadol,probiotic,1
+tramadol,diclofenac,1
+esomeprazole,dabigatran,1
+alprazolam,naproxen,1
+probiotic,naproxen,1
+paroxetine,apixaban,1
+fluoxetine,vitamin c,1
+paracetamol,erythromycin,1
+erythromycin,simvastatin,3
+fluoxetine,diazepam,2
+dexketoprofen,vitamin d,1
+enterogermina,erythromycin,1
+paroxetine,probiotic,1
+sertraline,acetaminophen,1
+simvastatin,tramadol,1
+escitalopram,lorazepam,2
+b12,warfarin,1
+warfarin,paracetamol,1
+clarithromycin,morphine,1
+oxycodone,atorvastatin,1
+simvastatin,probiotic,1
+morphine,naproxen,1
+diclofenac,edoxaban,1
+amiodarone,b12,1
+rivaroxaban,pravastatin,1
+ibuprofen,clarithromycin,1
+sertraline,escitalopram,1
+simvastatin,edoxaban,1
+escitalopram,rosuvastatin,1
+diclofenac,rivaroxaban,1
+dexketoprofen,edoxaban,1
+folic acid,codeine,1
+azithromycin,oxycodone,1
+edoxaban,diclofenac,1
+omeprazole,apixaban,1
+morphine,acetaminophen,1
+amiodarone,omeprazole,1
+lorazepam,esomeprazole,1
+oxycodone,probiotic,1
+rosuvastatin,probiotic,1
+paroxetine,diazepam,2
+diclofenac,dexketoprofen,1
+paroxetine,vitamin d,1
+tramadol,simvastatin,1
+edoxaban,erythromycin,1
+codeine,oxycodone,1
+b12,ketoprofen,1
+vitamin d,simvastatin,1
+ketoprofen,simvastatin,1
+rivaroxaban,sertraline,1
+alprazolam,diazepam,1
+dexketoprofen,morphine,1
+folic acid,erythromycin,1
+tramadol,esomeprazole,1
+paroxetine,rivaroxaban,1
+pantoprazole,tramadol,1
+morphine,atorvastatin,1
+ibuprofen,vitamin c,1
+fluoxetine,oxycodone,2
+folic acid,erythromycin,1
+clarithromycin,diazepam,1
+pravastatin,vitamin d,1
+codeine,simvastatin,1
+azithromycin,vitamin c,1
+vitamin c,apixaban,1
+erythromycin,diazepam,1
+pravastatin,enterogermina,1
+azithromycin,fluoxetine,1
+esomeprazole,lorazepam,1
+vitamin d,pravastatin,1
+vitamin d,tramadol,1
+diazepam,omeprazole,1
+probiotic,ketoprofen,1
+lorazepam,esomeprazole,1
+simvastatin,escitalopram,1
+ketoprofen,omeprazole,1
+sertraline,dexketoprofen,2
+paracetamol,pravastatin,1
+tramadol,ketoprofen,1
+vitamin d,esomeprazole,1
+tramadol,clarithromycin,1
+folic acid,dabigatran,1
+pravastatin,paracetamol,1
+azithromycin,pantoprazole,1
+morphine,rosuvastatin,1
+pantoprazole,lorazepam,1
+simvastatin,amiodarone,1
+lorazepam,escitalopram,2
+atorvastatin,edoxaban,1
+vitamin c,diclofenac,1
+probiotic,simvastatin,1
+pravastatin,ibuprofen,1
+oxycodone,acetaminophen,1
+dexketoprofen,probiotic,1
+oxycodone,acetaminophen,1
+diazepam,erythromycin,1
+rosuvastatin,acetaminophen,1
+pantoprazole,lorazepam,1
+clarithromycin,folic acid,1
+paracetamol,erythromycin,1
+enterogermina,azithromycin,1
+clarithromycin,apixaban,1
+paracetamol,amiodarone,1
+morphine,enterogermina,1
+erythromycin,clonazepam,1
+acetaminophen,clarithromycin,1
+folic acid,clarithromycin,1
+morphine,omeprazole,1
+paracetamol,clonazepam,1
+vitamin d,vitamin c,1
+naproxen,amiodarone,1
+morphine,edoxaban,1
+warfarin,omeprazole,1
+oxycodone,amiodarone,1
+morphine,rosuvastatin,1
+azithromycin,alprazolam,1
+diazepam,pravastatin,1
+clonazepam,dexketoprofen,1
+clarithromycin,enterogermina,1
+pantoprazole,diazepam,1
+naproxen,folic acid,1
+vitamin d,diclofenac,1
+paracetamol,clarithromycin,1
+paroxetine,naproxen,2
+esomeprazole,enterogermina,1
+vitamin d,atorvastatin,1
+vitamin d,pravastatin,1
+erythromycin,tramadol,1
+pravastatin,naproxen,1
+ibuprofen,pravastatin,1
+pantoprazole,enterogermina,1
+fluoxetine,diazepam,2
+vitamin c,edoxaban,1
+acetaminophen,pantoprazole,1
+rosuvastatin,pravastatin,1
+probiotic,ketoprofen,1
+dexketoprofen,clonazepam,1
+amiodarone,acetaminophen,1
+erythromycin,alprazolam,1
+codeine,erythromycin,1
+edoxaban,paroxetine,1
+folic acid,atorvastatin,1
+clonazepam,probiotic,1
+vitamin d,ketoprofen,1
+escitalopram,paroxetine,1
+edoxaban,erythromycin,1
+tramadol,warfarin,1
+clarithromycin,ketoprofen,1
+vitamin d,tramadol,1
+rivaroxaban,paracetamol,1
+dabigatran,clonazepam,1
+folic acid,dexketoprofen,1
+warfarin,acetaminophen,1
+pravastatin,apixaban,1
+vitamin c,lorazepam,1
+paroxetine,morphine,2
+clonazepam,esomeprazole,1
+apixaban,codeine,1
+amiodarone,pravastatin,1
+vitamin d,codeine,1
+vitamin d,naproxen,1
+clarithromycin,acetaminophen,1
+diclofenac,erythromycin,1
+edoxaban,folic acid,1
+pantoprazole,clonazepam,1
+esomeprazole,amiodarone,1
+erythromycin,erythromycin,1
+azithromycin,rosuvastatin,3
+probiotic,dexketoprofen,1
+vitamin c,amiodarone,1
+simvastatin,probiotic,1
+pravastatin,fluoxetine,1
+clarithromycin,fluoxetine,1
+morphine,ibuprofen,1
+pantoprazole,escitalopram,1
+simvastatin,dexketoprofen,1
+erythromycin,probiotic,1
+enterogermina,paroxetine,1
+vitamin d,clarithromycin,1
+naproxen,tramadol,1
+dexketoprofen,ibuprofen,1
+azithromycin,dabigatran,1
+sertraline,vitamin d,1
+paroxetine,clarithromycin,1
+esomeprazole,lorazepam,1
+amiodarone,dexketoprofen,1
+omeprazole,acetaminophen,1
+acetaminophen,clarithromycin,1
+dexketoprofen,probiotic,1
+sertraline,omeprazole,1
+omeprazole,enterogermina,1
+clarithromycin,oxycodone,1
+amiodarone,clarithromycin,3
+warfarin,clarithromycin,3
+amiodarone,paroxetine,3
+enterogermina,alprazolam,1
+sertraline,probiotic,1
+paroxetine,ketoprofen,2
+vitamin d,alprazolam,1
+lorazepam,vitamin d,1
+oxycodone,azithromycin,1
+sertraline,naproxen,2
+clarithromycin,folic acid,1
+probiotic,vitamin c,1
+naproxen,atorvastatin,1
+simvastatin,azithromycin,3
+diazepam,ketoprofen,1
+vitamin d,rosuvastatin,1
+morphine,acetaminophen,1
+probiotic,erythromycin,1
+morphine,paracetamol,1
+ketoprofen,alprazolam,1
+acetaminophen,codeine,1
+b12,naproxen,1
+esomeprazole,rosuvastatin,2
+probiotic,warfarin,1
+codeine,erythromycin,1
+diclofenac,sertraline,2
+dabigatran,codeine,1
+atorvastatin,diclofenac,1
+erythromycin,lorazepam,1
+atorvastatin,fluoxetine,1
+pantoprazole,naproxen,1
+azithromycin,omeprazole,1
+acetaminophen,lorazepam,1
+ketoprofen,edoxaban,1
+dabigatran,erythromycin,1
+alprazolam,b12,1
+apixaban,diazepam,1
+acetaminophen,erythromycin,1
+esomeprazole,omeprazole,1
+sertraline,b12,1
+ketoprofen,diclofenac,1
+dabigatran,amiodarone,1
+b12,paroxetine,1
+codeine,amiodarone,1
+esomeprazole,erythromycin,1
+rosuvastatin,lorazepam,1
+simvastatin,warfarin,1
+omeprazole,amiodarone,1
+pantoprazole,enterogermina,1
+morphine,edoxaban,1
+alprazolam,warfarin,1
+alprazolam,b12,1
+paracetamol,vitamin d,1
+warfarin,erythromycin,3
+omeprazole,sertraline,1
+dabigatran,clarithromycin,1
+codeine,probiotic,1
+codeine,amiodarone,1
+paracetamol,apixaban,1
+lorazepam,codeine,3
+fluoxetine,oxycodone,2
+amiodarone,fluoxetine,3
+diclofenac,alprazolam,1
+erythromycin,simvastatin,3
+diclofenac,esomeprazole,1
+atorvastatin,morphine,1
+warfarin,tramadol,1
+paracetamol,ketoprofen,1
+tramadol,apixaban,1
+rosuvastatin,azithromycin,3
+dexketoprofen,pravastatin,1
+dexketoprofen,paroxetine,2
+b12,probiotic,1
+esomeprazole,erythromycin,1
+sertraline,atorvastatin,1
+erythromycin,amiodarone,3
+probiotic,edoxaban,1
+pravastatin,dabigatran,1
+acetaminophen,erythromycin,1
+folic acid,apixaban,1
+clarithromycin,clonazepam,1
+clarithromycin,azithromycin,1
+alprazolam,paroxetine,2
+paracetamol,morphine,1
+dexketoprofen,erythromycin,1
+paroxetine,ketoprofen,2
+alprazolam,erythromycin,1
+edoxaban,b12,1
+probiotic,lorazepam,1
+esomeprazole,oxycodone,1
+paroxetine,rosuvastatin,1
+naproxen,sertraline,2
+ibuprofen,atorvastatin,1
+lorazepam,atorvastatin,1
+edoxaban,paroxetine,1
+amiodarone,codeine,1
+b12,ketoprofen,1
+codeine,probiotic,1
+clarithromycin,paroxetine,1
+erythromycin,rosuvastatin,3
+clonazepam,morphine,3
+dexketoprofen,ibuprofen,1
+clonazepam,lorazepam,1
+erythromycin,pravastatin,3
+erythromycin,oxycodone,1
+alprazolam,clarithromycin,1
+esomeprazole,apixaban,1
+fluoxetine,omeprazole,1
+rosuvastatin,apixaban,1
+morphine,naproxen,1
+omeprazole,vitamin c,1
+escitalopram,enterogermina,1
+clarithromycin,paroxetine,1
+amiodarone,paracetamol,1
+ibuprofen,sertraline,2
+acetaminophen,azithromycin,1
+diazepam,erythromycin,1
+rosuvastatin,diclofenac,1
+paracetamol,naproxen,1
+diclofenac,erythromycin,1
+paracetamol,erythromycin,1
+clonazepam,omeprazole,1
+dabigatran,paroxetine,1
+clarithromycin,folic acid,1
+vitamin d,ketoprofen,1
+clonazepam,enterogermina,1
+clarithromycin,folic acid,1
+paracetamol,rivaroxaban,1
+oxycodone,folic acid,1
+erythromycin,rivaroxaban,1
+apixaban,atorvastatin,1
+edoxaban,atorvastatin,1
+paracetamol,codeine,1
+rosuvastatin,pantoprazole,2
+rosuvastatin,enterogermina,1
+azithromycin,probiotic,1
+vitamin c,esomeprazole,1
+edoxaban,omeprazole,1
+folic acid,edoxaban,1
+vitamin d,paracetamol,1
+clarithromycin,azithromycin,1
+ibuprofen,acetaminophen,1
+azithromycin,amiodarone,3
+simvastatin,amiodarone,1
+atorvastatin,codeine,1
+escitalopram,dexketoprofen,2
+paroxetine,dexketoprofen,2
+erythromycin,clarithromycin,3
+enterogermina,dexketoprofen,1
+erythromycin,lorazepam,1
+erythromycin,folic acid,1
+folic acid,dexketoprofen,1
+naproxen,clarithromycin,1
+omeprazole,paroxetine,1
+codeine,oxycodone,1
+oxycodone,erythromycin,1
+erythromycin,dabigatran,1
+lorazepam,azithromycin,1
+warfarin,edoxaban,1
+clarithromycin,dabigatran,1
+diclofenac,warfarin,3
+escitalopram,clarithromycin,1
+clonazepam,lorazepam,1
+oxycodone,paroxetine,2
+acetaminophen,paracetamol,1
+amiodarone,clonazepam,3
+vitamin c,atorvastatin,1
+b12,folic acid,1
+pravastatin,vitamin c,1
+naproxen,rivaroxaban,1
+naproxen,azithromycin,1
+ibuprofen,sertraline,2
+b12,enterogermina,1
+alprazolam,erythromycin,1
+warfarin,dexketoprofen,3
+alprazolam,naproxen,1
+vitamin c,probiotic,1
+dabigatran,fluoxetine,1
+paracetamol,warfarin,1
+vitamin c,folic acid,1
+morphine,dabigatran,1
+escitalopram,tramadol,2
+codeine,simvastatin,1
+vitamin d,probiotic,1
+rosuvastatin,azithromycin,3
+diazepam,vitamin d,1
+paroxetine,enterogermina,1
+oxycodone,dabigatran,1
+rosuvastatin,vitamin d,1
+alprazolam,esomeprazole,1
+azithromycin,clonazepam,1
+clonazepam,lorazepam,1
+clarithromycin,lorazepam,1
+ketoprofen,enterogermina,1
+pravastatin,naproxen,1
+apixaban,vitamin c,1
+azithromycin,apixaban,1
+clarithromycin,oxycodone,1
+amiodarone,oxycodone,1
+enterogermina,paroxetine,1
+lorazepam,clonazepam,1
+acetaminophen,codeine,1
+diazepam,fluoxetine,2
+paroxetine,warfarin,3
+acetaminophen,warfarin,1
+lorazepam,clonazepam,1
+simvastatin,morphine,1
+pravastatin,diazepam,1
+dabigatran,rosuvastatin,1
+erythromycin,rivaroxaban,1
+edoxaban,azithromycin,1
+erythromycin,dabigatran,1
+paracetamol,codeine,1
+ketoprofen,azithromycin,1
+clonazepam,probiotic,1
+omeprazole,tramadol,1
+folic acid,enterogermina,1
+clarithromycin,rosuvastatin,3
+vitamin c,simvastatin,1
+oxycodone,vitamin c,1
+vitamin d,simvastatin,1
+fluoxetine,morphine,2
+folic acid,enterogermina,1
+clonazepam,ketoprofen,1
+edoxaban,diazepam,1
+vitamin c,codeine,1
+dabigatran,vitamin c,1
+probiotic,dabigatran,1
+clonazepam,dabigatran,1
+amiodarone,alprazolam,3
+clarithromycin,paroxetine,1
+morphine,diazepam,3
+fluoxetine,b12,1
+vitamin c,apixaban,1
+erythromycin,probiotic,1
+erythromycin,tramadol,1
+azithromycin,paracetamol,1
+morphine,warfarin,1
+enterogermina,oxycodone,1
+clarithromycin,amiodarone,3
+amiodarone,pantoprazole,1
+oxycodone,vitamin d,1
+morphine,tramadol,1
+simvastatin,vitamin c,1
+pantoprazole,erythromycin,1
+pantoprazole,probiotic,1
+diazepam,tramadol,3
+omeprazole,atorvastatin,2
+escitalopram,erythromycin,1
+vitamin c,rivaroxaban,1
+azithromycin,rosuvastatin,3
+sertraline,erythromycin,1
+omeprazole,simvastatin,2
+ibuprofen,paroxetine,2
+fluoxetine,dabigatran,1
+ketoprofen,clarithromycin,1
+fluoxetine,codeine,2
+ketoprofen,morphine,1
+simvastatin,edoxaban,1
+paroxetine,vitamin c,1
+rivaroxaban,codeine,1
+clonazepam,rosuvastatin,1
+esomeprazole,clarithromycin,1
+tramadol,ketoprofen,1
+oxycodone,amiodarone,1
+alprazolam,edoxaban,1
+diclofenac,diazepam,1
+vitamin d,erythromycin,1
+warfarin,tramadol,1
+amiodarone,erythromycin,3
+pantoprazole,ibuprofen,1
+tramadol,diazepam,3
+diazepam,atorvastatin,1
+rosuvastatin,lorazepam,1
+clarithromycin,simvastatin,3
+lorazepam,naproxen,1
+rivaroxaban,edoxaban,1
+escitalopram,erythromycin,1
+paroxetine,pantoprazole,1
+morphine,erythromycin,1
+tramadol,lorazepam,3
+diclofenac,clarithromycin,1
+ibuprofen,paroxetine,2
+erythromycin,apixaban,1
+pantoprazole,edoxaban,1
+fluoxetine,ketoprofen,2
+esomeprazole,enterogermina,1
+atorvastatin,erythromycin,3
+oxycodone,warfarin,1
+lorazepam,probiotic,1
+esomeprazole,tramadol,1
+fluoxetine,apixaban,1
+diclofenac,fluoxetine,2
+enterogermina,clonazepam,1
+edoxaban,esomeprazole,1
+enterogermina,fluoxetine,1
+dabigatran,clonazepam,1
+morphine,azithromycin,1
+vitamin d,omeprazole,1
+esomeprazole,omeprazole,1
+diazepam,tramadol,3
+enterogermina,alprazolam,1
+edoxaban,acetaminophen,1
+fluoxetine,azithromycin,1
+dexketoprofen,enterogermina,1
+diclofenac,naproxen,1
+folic acid,dexketoprofen,1
+vitamin d,acetaminophen,1
+sertraline,apixaban,1
+erythromycin,amiodarone,3
+edoxaban,ketoprofen,1
+dabigatran,clonazepam,1
+edoxaban,paroxetine,1
+morphine,warfarin,1
+paroxetine,diclofenac,2
+alprazolam,vitamin d,1
+clarithromycin,diclofenac,1
+probiotic,sertraline,1
+fluoxetine,dabigatran,1
+rosuvastatin,alprazolam,1
+diclofenac,edoxaban,1
+clarithromycin,amiodarone,3
+erythromycin,enterogermina,1
+apixaban,ibuprofen,1
+clarithromycin,b12,1
+folic acid,alprazolam,1
+warfarin,dexketoprofen,3
+naproxen,probiotic,1
+esomeprazole,pantoprazole,1
+b12,oxycodone,1
+atorvastatin,apixaban,1
+azithromycin,clarithromycin,1
+codeine,simvastatin,1
+sertraline,esomeprazole,1
+vitamin d,folic acid,1
+alprazolam,vitamin d,1
+dexketoprofen,diclofenac,1
+paroxetine,vitamin d,1
+alprazolam,erythromycin,1
+alprazolam,atorvastatin,1
+codeine,pravastatin,1
+escitalopram,oxycodone,2
+enterogermina,edoxaban,1
+clarithromycin,atorvastatin,3
+esomeprazole,ibuprofen,1
+apixaban,warfarin,1
+vitamin d,paroxetine,1
+paracetamol,naproxen,1
+escitalopram,clarithromycin,1
+clonazepam,warfarin,1
+pravastatin,paracetamol,1
+dexketoprofen,erythromycin,1
+sertraline,edoxaban,1
+atorvastatin,lorazepam,1
+acetaminophen,clarithromycin,1
+rivaroxaban,morphine,1
+oxycodone,esomeprazole,1
+simvastatin,azithromycin,3
+rosuvastatin,azithromycin,3
+apixaban,clarithromycin,1
+dabigatran,morphine,1
+apixaban,sertraline,1
+sertraline,diazepam,2
+folic acid,b12,1
+morphine,ketoprofen,1
+simvastatin,erythromycin,3
+sertraline,esomeprazole,1
+clarithromycin,apixaban,1
+rivaroxaban,escitalopram,1
+ibuprofen,folic acid,1
+erythromycin,oxycodone,1
+dabigatran,enterogermina,1
+morphine,alprazolam,3
+alprazolam,atorvastatin,1
+diclofenac,dexketoprofen,1
+sertraline,apixaban,1
+oxycodone,warfarin,1
+acetaminophen,dabigatran,1
+atorvastatin,b12,1
+codeine,amiodarone,1
+clarithromycin,vitamin c,1
+rivaroxaban,b12,1
+clarithromycin,fluoxetine,1
+pantoprazole,acetaminophen,1
+diazepam,tramadol,3
+rivaroxaban,vitamin d,1
+esomeprazole,alprazolam,1
+rosuvastatin,apixaban,1
+omeprazole,enterogermina,1
+paroxetine,oxycodone,2
+fluoxetine,simvastatin,1
+edoxaban,clarithromycin,1
+ketoprofen,acetaminophen,1
+pravastatin,diazepam,1
+amiodarone,paracetamol,1
+clonazepam,enterogermina,1
+atorvastatin,apixaban,1
+clonazepam,warfarin,1
+b12,clarithromycin,1
+warfarin,enterogermina,1
+atorvastatin,pravastatin,1
+diazepam,amiodarone,3
+ibuprofen,probiotic,1
+probiotic,dexketoprofen,1
+warfarin,diclofenac,3
+ibuprofen,acetaminophen,1
+sertraline,vitamin c,1
+alprazolam,sertraline,2
+pantoprazole,atorvastatin,2
+clonazepam,azithromycin,1
+lorazepam,pravastatin,1
+ibuprofen,paracetamol,1
+diazepam,edoxaban,1
+b12,naproxen,1
+apixaban,paroxetine,1
+edoxaban,acetaminophen,1
+paroxetine,diclofenac,2
+amiodarone,erythromycin,3
+rivaroxaban,erythromycin,1
+clarithromycin,folic acid,1
+b12,paracetamol,1
+atorvastatin,ketoprofen,1
+omeprazole,ketoprofen,1
+vitamin d,erythromycin,1
+esomeprazole,simvastatin,2
+dabigatran,dexketoprofen,1
+clarithromycin,ibuprofen,1
+warfarin,naproxen,3
+clarithromycin,clonazepam,1
+diazepam,simvastatin,1
+oxycodone,erythromycin,1
+morphine,warfarin,1
+escitalopram,apixaban,1
+simvastatin,sertraline,1
+pantoprazole,naproxen,1
+enterogermina,clarithromycin,1
+probiotic,pantoprazole,1
+naproxen,tramadol,1
+esomeprazole,pantoprazole,1
+edoxaban,pravastatin,1
+sertraline,ibuprofen,2
+esomeprazole,alprazolam,1
+naproxen,vitamin d,1
+acetaminophen,omeprazole,1
+diazepam,alprazolam,1
+b12,dabigatran,1
+clarithromycin,clonazepam,1
+rivaroxaban,paracetamol,1
+morphine,erythromycin,1
+vitamin c,dexketoprofen,1
+tramadol,escitalopram,2
+sertraline,warfarin,3
+apixaban,codeine,1
+codeine,probiotic,1
+clonazepam,rivaroxaban,1
+clarithromycin,morphine,1
+esomeprazole,morphine,1
+naproxen,apixaban,1
+pravastatin,rivaroxaban,1
+atorvastatin,azithromycin,3
+paroxetine,b12,1
+warfarin,apixaban,1
+pantoprazole,rosuvastatin,2
+oxycodone,simvastatin,1
+vitamin c,alprazolam,1
+simvastatin,atorvastatin,1
+ketoprofen,codeine,1
+vitamin c,erythromycin,1
+vitamin c,apixaban,1
+codeine,edoxaban,1
+escitalopram,enterogermina,1
+escitalopram,rosuvastatin,1
+fluoxetine,dexketoprofen,2
+esomeprazole,rosuvastatin,2
+diazepam,diclofenac,1
+codeine,tramadol,1
+pravastatin,probiotic,1
+dabigatran,enterogermina,1
+dexketoprofen,rosuvastatin,1
+naproxen,erythromycin,1
+folic acid,atorvastatin,1
+b12,folic acid,1
+vitamin c,diclofenac,1
+alprazolam,diazepam,1
+pantoprazole,paroxetine,1
+vitamin d,diazepam,1
+oxycodone,sertraline,2
+esomeprazole,apixaban,1
+clonazepam,alprazolam,1
+fluoxetine,alprazolam,2
+amiodarone,tramadol,1
+b12,alprazolam,1
+folic acid,clarithromycin,1
+diazepam,azithromycin,1
+pantoprazole,warfarin,1
+omeprazole,clonazepam,1
+ibuprofen,dexketoprofen,1
+ibuprofen,vitamin d,1
+amiodarone,diazepam,3
+erythromycin,paracetamol,1
+oxycodone,tramadol,1
+b12,codeine,1
+rosuvastatin,b12,1
+dexketoprofen,codeine,1
+rivaroxaban,amiodarone,1
+tramadol,paracetamol,1
+b12,pantoprazole,1
+vitamin d,erythromycin,1
+codeine,fluoxetine,2
+vitamin d,b12,1
+codeine,azithromycin,1
+omeprazole,diclofenac,1
+azithromycin,morphine,1
+b12,ketoprofen,1
+omeprazole,apixaban,1
+enterogermina,lorazepam,1
+naproxen,apixaban,1
+folic acid,acetaminophen,1
+diazepam,acetaminophen,1
+omeprazole,amiodarone,1
+codeine,dexketoprofen,1
+codeine,warfarin,1
+enterogermina,amiodarone,1
+dexketoprofen,paroxetine,2
+rosuvastatin,omeprazole,2
+erythromycin,clarithromycin,3
+clarithromycin,diclofenac,1
+amiodarone,escitalopram,3
+probiotic,tramadol,1
+atorvastatin,tramadol,1
+acetaminophen,paracetamol,1
+ibuprofen,rivaroxaban,1
+clarithromycin,apixaban,1
+escitalopram,apixaban,1
+folic acid,enterogermina,1
+paroxetine,erythromycin,1
+amiodarone,clarithromycin,3
+clarithromycin,vitamin c,1
+acetaminophen,simvastatin,1
+apixaban,probiotic,1
+rivaroxaban,esomeprazole,1
+azithromycin,pantoprazole,1
+fluoxetine,lorazepam,2
+apixaban,paroxetine,1
+ketoprofen,dabigatran,1
+edoxaban,paracetamol,1
+sertraline,ibuprofen,2
+vitamin c,warfarin,1
+edoxaban,ibuprofen,1
+probiotic,pantoprazole,1
+warfarin,diclofenac,3
+diazepam,folic acid,1
+ibuprofen,morphine,1
+omeprazole,erythromycin,1
+dexketoprofen,azithromycin,1
+tramadol,pantoprazole,1
+esomeprazole,apixaban,1
+ibuprofen,b12,1
+paracetamol,erythromycin,1
+edoxaban,esomeprazole,1
+paracetamol,probiotic,1
+escitalopram,enterogermina,1
+probiotic,clarithromycin,1
+warfarin,clarithromycin,3
+diazepam,erythromycin,1
+clonazepam,pantoprazole,1
+simvastatin,dexketoprofen,1
+b12,apixaban,1
+clarithromycin,rosuvastatin,3
+dexketoprofen,probiotic,1
+warfarin,rosuvastatin,1
+vitamin d,clarithromycin,1
+b12,paroxetine,1
+rivaroxaban,azithromycin,1
+lorazepam,clarithromycin,1
+tramadol,clarithromycin,1
+naproxen,paracetamol,1
+alprazolam,azithromycin,1
+warfarin,erythromycin,3
+ketoprofen,omeprazole,1
+vitamin c,codeine,1
+paroxetine,diclofenac,2
+paroxetine,escitalopram,1
+clonazepam,diclofenac,1
+diclofenac,paroxetine,2
+erythromycin,lorazepam,1
+diclofenac,clarithromycin,1
+rivaroxaban,diclofenac,1
+vitamin c,codeine,1
+diclofenac,b12,1
+pantoprazole,omeprazole,1
+apixaban,warfarin,1
+enterogermina,folic acid,1
+acetaminophen,escitalopram,1
+erythromycin,b12,1
+atorvastatin,folic acid,1
+naproxen,sertraline,2
+paracetamol,enterogermina,1
+paroxetine,probiotic,1
+folic acid,esomeprazole,1
+clarithromycin,dexketoprofen,1
+amiodarone,dabigatran,1
+pravastatin,clarithromycin,3
+azithromycin,b12,1
+rivaroxaban,clonazepam,1
+b12,warfarin,1
+b12,edoxaban,1
+omeprazole,ketoprofen,1
+morphine,alprazolam,3
+pantoprazole,rivaroxaban,1
+apixaban,diclofenac,1
+apixaban,escitalopram,1
+alprazolam,erythromycin,1
+escitalopram,azithromycin,1
+probiotic,esomeprazole,1
+amiodarone,clarithromycin,3
+esomeprazole,rosuvastatin,2
+naproxen,enterogermina,1
+pravastatin,erythromycin,3
+paroxetine,atorvastatin,1
+diazepam,escitalopram,2
+enterogermina,vitamin d,1
+enterogermina,sertraline,1
+ibuprofen,alprazolam,1
+lorazepam,tramadol,3
+alprazolam,morphine,3
+ibuprofen,dexketoprofen,1
+paroxetine,omeprazole,1
+alprazolam,enterogermina,1
+clarithromycin,lorazepam,1
+lorazepam,diclofenac,1
+diazepam,simvastatin,1
+clonazepam,alprazolam,1
+sertraline,clarithromycin,1
+dabigatran,diazepam,1
+esomeprazole,rivaroxaban,1
+naproxen,atorvastatin,1
+escitalopram,b12,1
+probiotic,ibuprofen,1
+escitalopram,erythromycin,1
+ketoprofen,dabigatran,1
+omeprazole,alprazolam,1
+enterogermina,simvastatin,1
+vitamin d,lorazepam,1
+diazepam,apixaban,1
+erythromycin,rivaroxaban,1
+diazepam,lorazepam,1
+erythromycin,probiotic,1
+apixaban,vitamin c,1
+vitamin d,edoxaban,1
+oxycodone,erythromycin,1
+oxycodone,naproxen,1
+codeine,clarithromycin,1
+ketoprofen,vitamin d,1
+sertraline,paracetamol,1
+omeprazole,atorvastatin,2
+folic acid,diazepam,1
+alprazolam,amiodarone,3
+warfarin,rivaroxaban,1
+codeine,clarithromycin,1
+clonazepam,codeine,3
+atorvastatin,sertraline,1
+fluoxetine,alprazolam,2
+lorazepam,sertraline,2
+clarithromycin,acetaminophen,1
+ketoprofen,diazepam,1
+pravastatin,vitamin c,1
+diazepam,probiotic,1
+erythromycin,simvastatin,3
+vitamin d,simvastatin,1
+atorvastatin,paroxetine,1
+ibuprofen,oxycodone,1
+lorazepam,apixaban,1
+azithromycin,enterogermina,1
+ibuprofen,azithromycin,1
+atorvastatin,dabigatran,1
+escitalopram,dexketoprofen,2
+clonazepam,pravastatin,1
+lorazepam,probiotic,1
+pravastatin,amiodarone,1
+vitamin d,dabigatran,1
+edoxaban,lorazepam,1
+diclofenac,vitamin c,1
+diclofenac,ibuprofen,1
+morphine,escitalopram,2
+vitamin c,clonazepam,1
+ibuprofen,oxycodone,1
+fluoxetine,codeine,2
+b12,warfarin,1
+enterogermina,clarithromycin,1
+rivaroxaban,naproxen,1
+ibuprofen,rosuvastatin,1
+dexketoprofen,simvastatin,1
+vitamin c,omeprazole,1
+omeprazole,probiotic,1
+naproxen,morphine,1
+omeprazole,naproxen,1
+enterogermina,amiodarone,1
+edoxaban,erythromycin,1
+simvastatin,erythromycin,3
+simvastatin,sertraline,1
+escitalopram,pravastatin,1
+simvastatin,apixaban,1
+morphine,atorvastatin,1
+diclofenac,codeine,1
+erythromycin,atorvastatin,3
+fluoxetine,clarithromycin,1
+fluoxetine,rosuvastatin,1
+acetaminophen,erythromycin,1
+rivaroxaban,diclofenac,1
+escitalopram,clarithromycin,1
+clarithromycin,pravastatin,3
+lorazepam,alprazolam,1
+lorazepam,diclofenac,1
+erythromycin,escitalopram,1
+diazepam,ibuprofen,1
+diclofenac,morphine,1
+clarithromycin,folic acid,1
+warfarin,pravastatin,1
+paracetamol,enterogermina,1
+atorvastatin,amiodarone,1
+amiodarone,ketoprofen,1
+acetaminophen,simvastatin,1
+probiotic,diazepam,1
+alprazolam,paroxetine,2
+esomeprazole,naproxen,1
+pravastatin,edoxaban,1
+dexketoprofen,paroxetine,2
+pravastatin,clarithromycin,3
+dexketoprofen,probiotic,1
+fluoxetine,clarithromycin,1
+rivaroxaban,ketoprofen,1
+dexketoprofen,probiotic,1
+acetaminophen,folic acid,1
+diclofenac,pravastatin,1
+clonazepam,vitamin c,1
+dabigatran,diclofenac,1
+folic acid,erythromycin,1
+probiotic,escitalopram,1
+atorvastatin,b12,1
+pravastatin,clarithromycin,3
+morphine,escitalopram,2
+paracetamol,oxycodone,1
+oxycodone,dabigatran,1
+oxycodone,erythromycin,1
+azithromycin,escitalopram,1
+codeine,enterogermina,1
+diazepam,dexketoprofen,1
+acetaminophen,probiotic,1
+naproxen,clarithromycin,1
+azithromycin,fluoxetine,1
+warfarin,naproxen,3
+escitalopram,omeprazole,1
+amiodarone,warfarin,3
+diazepam,clarithromycin,1
+dabigatran,clonazepam,1
+pravastatin,azithromycin,3
+fluoxetine,rosuvastatin,1
+naproxen,lorazepam,1
+escitalopram,ibuprofen,2
+acetaminophen,omeprazole,1
+naproxen,ibuprofen,1
+b12,erythromycin,1
+acetaminophen,ibuprofen,1
+clarithromycin,warfarin,3
+rosuvastatin,ibuprofen,1
+b12,atorvastatin,1
+clarithromycin,b12,1
+simvastatin,dabigatran,1
+ibuprofen,dabigatran,1
+naproxen,probiotic,1
+fluoxetine,folic acid,1
+diazepam,warfarin,1
+dabigatran,apixaban,1
+oxycodone,escitalopram,2
+b12,ibuprofen,1
+vitamin d,warfarin,1
+azithromycin,fluoxetine,1
+clarithromycin,clarithromycin,1
+probiotic,clarithromycin,1
+apixaban,morphine,1
+escitalopram,ketoprofen,2
+ibuprofen,paracetamol,1
+ibuprofen,acetaminophen,1
+pravastatin,paroxetine,1
+clonazepam,omeprazole,1
+clarithromycin,warfarin,3
+erythromycin,codeine,1
+diazepam,clarithromycin,1
+rivaroxaban,acetaminophen,1
+dexketoprofen,simvastatin,1
+alprazolam,oxycodone,3
+ibuprofen,dexketoprofen,1
+vitamin c,fluoxetine,1
+b12,lorazepam,1
+rosuvastatin,omeprazole,2
+acetaminophen,paracetamol,1
+ketoprofen,tramadol,1
+diclofenac,erythromycin,1
+vitamin d,simvastatin,1
+oxycodone,folic acid,1
+azithromycin,codeine,1
+clarithromycin,oxycodone,1
+folic acid,codeine,1
+erythromycin,ketoprofen,1
+esomeprazole,morphine,1
+azithromycin,enterogermina,1
+vitamin d,ketoprofen,1
+amiodarone,dexketoprofen,1
+dexketoprofen,erythromycin,1
+lorazepam,simvastatin,1
+naproxen,warfarin,3
+dexketoprofen,probiotic,1
+vitamin c,clonazepam,1
+rivaroxaban,acetaminophen,1
+edoxaban,diazepam,1
+acetaminophen,fluoxetine,1
+paracetamol,erythromycin,1
+acetaminophen,paroxetine,1
+oxycodone,probiotic,1
+omeprazole,erythromycin,1
+dexketoprofen,sertraline,2
+dexketoprofen,paroxetine,2
+oxycodone,clarithromycin,1
+pantoprazole,acetaminophen,1
+warfarin,rivaroxaban,1
+diclofenac,vitamin c,1
+erythromycin,amiodarone,3
+vitamin c,enterogermina,1
+pravastatin,probiotic,1
+pravastatin,warfarin,1
+alprazolam,b12,1
+pravastatin,diclofenac,1
+lorazepam,alprazolam,1
+oxycodone,diclofenac,1
+azithromycin,b12,1
+pantoprazole,ketoprofen,1
+clonazepam,diclofenac,1
+paracetamol,clarithromycin,1
+acetaminophen,clarithromycin,1
+apixaban,dexketoprofen,1
+alprazolam,vitamin d,1
+ibuprofen,lorazepam,1
+diclofenac,ketoprofen,1
+rosuvastatin,clarithromycin,3
+erythromycin,atorvastatin,3
+apixaban,sertraline,1
+enterogermina,probiotic,1
+paracetamol,codeine,1
+acetaminophen,dabigatran,1
+clarithromycin,tramadol,1
+codeine,tramadol,1
+omeprazole,paracetamol,1
+morphine,pravastatin,1
+oxycodone,dabigatran,1
+morphine,rivaroxaban,1
+atorvastatin,naproxen,1
+rosuvastatin,erythromycin,3
+morphine,b12,1
+sertraline,ibuprofen,2
+naproxen,escitalopram,2
+oxycodone,warfarin,1
+rivaroxaban,diclofenac,1
+naproxen,alprazolam,1
+lorazepam,simvastatin,1
+apixaban,clarithromycin,1
+clarithromycin,naproxen,1
+omeprazole,tramadol,1
+lorazepam,clarithromycin,1
+omeprazole,tramadol,1
+warfarin,probiotic,1
+alprazolam,pantoprazole,1
+ibuprofen,erythromycin,1
+amiodarone,clarithromycin,3
+acetaminophen,b12,1
+simvastatin,tramadol,1
+morphine,b12,1
+ketoprofen,pantoprazole,1
+folic acid,clonazepam,1
+enterogermina,apixaban,1
+erythromycin,b12,1
+tramadol,pantoprazole,1
+folic acid,clarithromycin,1
+escitalopram,b12,1
+rosuvastatin,omeprazole,2
+b12,lorazepam,1
+acetaminophen,oxycodone,1
+clarithromycin,folic acid,1
+edoxaban,esomeprazole,1
+diazepam,rosuvastatin,1
+fluoxetine,azithromycin,1
+diazepam,rosuvastatin,1
+enterogermina,naproxen,1
+esomeprazole,diazepam,1
+naproxen,ketoprofen,1
+tramadol,apixaban,1
+fluoxetine,dexketoprofen,2
+warfarin,alprazolam,1
+rosuvastatin,paroxetine,1
+oxycodone,erythromycin,1
+b12,esomeprazole,1
+folic acid,vitamin c,1
+fluoxetine,paracetamol,1
+erythromycin,atorvastatin,3
+erythromycin,codeine,1
+warfarin,diazepam,1
+atorvastatin,acetaminophen,1
+morphine,clarithromycin,1
+erythromycin,codeine,1
+omeprazole,azithromycin,1
+atorvastatin,edoxaban,1
+acetaminophen,probiotic,1
+morphine,fluoxetine,2
+sertraline,morphine,2
+tramadol,lorazepam,3
+paroxetine,ketoprofen,2
+enterogermina,dexketoprofen,1
+acetaminophen,ketoprofen,1
+vitamin c,clonazepam,1
+dexketoprofen,diclofenac,1
+erythromycin,lorazepam,1
+amiodarone,tramadol,1
+warfarin,vitamin c,1
+erythromycin,b12,1
+amiodarone,folic acid,1
+vitamin d,paracetamol,1
+sertraline,fluoxetine,1
+enterogermina,clarithromycin,1
+alprazolam,diclofenac,1
+acetaminophen,erythromycin,1
+apixaban,clarithromycin,1
+ibuprofen,oxycodone,1
+esomeprazole,erythromycin,1
+alprazolam,atorvastatin,1
+dexketoprofen,warfarin,3
+dabigatran,probiotic,1
+ibuprofen,erythromycin,1
+morphine,diclofenac,1
+fluoxetine,omeprazole,1
+atorvastatin,simvastatin,1
+morphine,warfarin,1
+fluoxetine,ketoprofen,2
+rosuvastatin,ibuprofen,1
+b12,clarithromycin,1
+edoxaban,vitamin d,1
+ketoprofen,sertraline,2
+folic acid,rivaroxaban,1
+azithromycin,fluoxetine,1
+oxycodone,codeine,1
+amiodarone,codeine,1
+amiodarone,dabigatran,1
+acetaminophen,erythromycin,1
+edoxaban,diazepam,1
+apixaban,pantoprazole,1
+amiodarone,pantoprazole,1
+vitamin c,enterogermina,1
+alprazolam,vitamin c,1
+clarithromycin,codeine,1
+esomeprazole,lorazepam,1
+simvastatin,enterogermina,1
+ibuprofen,clarithromycin,1
+erythromycin,escitalopram,1
+morphine,naproxen,1
+vitamin d,pantoprazole,1
+vitamin c,amiodarone,1
+fluoxetine,simvastatin,1
+simvastatin,apixaban,1
+vitamin c,escitalopram,1
+diclofenac,ibuprofen,1
+oxycodone,enterogermina,1
+folic acid,codeine,1
+morphine,rosuvastatin,1
+paroxetine,ibuprofen,2
+warfarin,escitalopram,3
+rosuvastatin,amiodarone,1
+atorvastatin,sertraline,1
+sertraline,enterogermina,1
+paroxetine,atorvastatin,1
+paroxetine,erythromycin,1
+vitamin d,edoxaban,1
+ibuprofen,vitamin c,1
+amiodarone,enterogermina,1
+amiodarone,pantoprazole,1
+warfarin,sertraline,3
+diazepam,rivaroxaban,1
+diazepam,clonazepam,1
+alprazolam,clarithromycin,1
+probiotic,warfarin,1
+edoxaban,naproxen,1
+rivaroxaban,edoxaban,1
+erythromycin,dexketoprofen,1
+fluoxetine,sertraline,1
+pravastatin,apixaban,1
+dexketoprofen,oxycodone,1
+ketoprofen,b12,1
+apixaban,folic acid,1
+tramadol,sertraline,2
+fluoxetine,acetaminophen,1
+warfarin,pantoprazole,1
+diclofenac,omeprazole,1
+paroxetine,morphine,2
+ibuprofen,atorvastatin,1
+ibuprofen,vitamin c,1
+edoxaban,alprazolam,1
+folic acid,atorvastatin,1
+morphine,oxycodone,1
+clarithromycin,omeprazole,1
+alprazolam,enterogermina,1
+atorvastatin,clarithromycin,3
+diazepam,probiotic,1
+erythromycin,simvastatin,3
+esomeprazole,omeprazole,1
+erythromycin,acetaminophen,1
+folic acid,omeprazole,1
+oxycodone,diazepam,3
+alprazolam,dexketoprofen,1
+b12,erythromycin,1
+escitalopram,lorazepam,2
+dexketoprofen,ibuprofen,1
+folic acid,vitamin c,1
+fluoxetine,esomeprazole,1
+enterogermina,dexketoprofen,1
+naproxen,diclofenac,1
+oxycodone,rosuvastatin,1
+sertraline,clarithromycin,1
+morphine,pravastatin,1
+morphine,alprazolam,3
+enterogermina,diclofenac,1
+paroxetine,dexketoprofen,2
+esomeprazole,simvastatin,2
+paroxetine,omeprazole,1
+rivaroxaban,fluoxetine,1
+esomeprazole,atorvastatin,2
+tramadol,paracetamol,1
+pantoprazole,diazepam,1
+amiodarone,atorvastatin,1
+vitamin c,pantoprazole,1
+ibuprofen,omeprazole,1
+dabigatran,ibuprofen,1
+azithromycin,acetaminophen,1
+diazepam,tramadol,3
+clonazepam,atorvastatin,1
+clarithromycin,warfarin,3
+erythromycin,apixaban,1
+naproxen,apixaban,1
+fluoxetine,apixaban,1
+erythromycin,clarithromycin,3
+folic acid,omeprazole,1
+amiodarone,escitalopram,3
+amiodarone,esomeprazole,1
+dexketoprofen,simvastatin,1
+escitalopram,rosuvastatin,1
+fluoxetine,morphine,2
+fluoxetine,omeprazole,1
+probiotic,diclofenac,1
+diclofenac,alprazolam,1
+acetaminophen,ibuprofen,1
+dabigatran,ketoprofen,1
+rivaroxaban,ibuprofen,1
+escitalopram,fluoxetine,1
+atorvastatin,enterogermina,1
+esomeprazole,b12,1
+azithromycin,edoxaban,1
+acetaminophen,oxycodone,1
+clarithromycin,fluoxetine,1
+ibuprofen,escitalopram,2
+clarithromycin,atorvastatin,3
+tramadol,clarithromycin,1
+dexketoprofen,diazepam,1
+morphine,probiotic,1
+edoxaban,ibuprofen,1
+enterogermina,edoxaban,1
+amiodarone,lorazepam,3
+vitamin d,erythromycin,1
+vitamin c,clarithromycin,1
+dexketoprofen,amiodarone,1
+paroxetine,amiodarone,3
+diclofenac,morphine,1
+omeprazole,erythromycin,1
+clonazepam,tramadol,3
+azithromycin,simvastatin,3
+pantoprazole,clarithromycin,1
+rivaroxaban,erythromycin,1
+simvastatin,vitamin c,1
+clonazepam,omeprazole,1
+enterogermina,dexketoprofen,1
+tramadol,dexketoprofen,1
+erythromycin,clonazepam,1
+paroxetine,b12,1
+atorvastatin,fluoxetine,1
+clarithromycin,atorvastatin,3
+diclofenac,rosuvastatin,1
+warfarin,paracetamol,1
+vitamin c,warfarin,1
+paracetamol,acetaminophen,1
+rivaroxaban,vitamin c,1
+dexketoprofen,amiodarone,1
+enterogermina,paroxetine,1
+azithromycin,codeine,1
+diclofenac,warfarin,3
+clarithromycin,apixaban,1
+sertraline,warfarin,3
+apixaban,erythromycin,1
+lorazepam,atorvastatin,1
+diclofenac,clonazepam,1
+pantoprazole,azithromycin,1
+warfarin,pantoprazole,1
+azithromycin,acetaminophen,1
+paracetamol,tramadol,1
+vitamin c,esomeprazole,1
+atorvastatin,folic acid,1
+edoxaban,vitamin d,1
+amiodarone,dexketoprofen,1
+codeine,diclofenac,1
+apixaban,clonazepam,1
+amiodarone,morphine,1
+omeprazole,folic acid,1
+paracetamol,escitalopram,1
+pantoprazole,omeprazole,1
+escitalopram,tramadol,2
+pantoprazole,fluoxetine,1
+warfarin,probiotic,1
+b12,pravastatin,1
+pantoprazole,azithromycin,1
+erythromycin,simvastatin,3
+amiodarone,azithromycin,3
+oxycodone,rivaroxaban,1
+warfarin,pantoprazole,1
+vitamin d,probiotic,1
+simvastatin,oxycodone,1
+ketoprofen,oxycodone,1
+azithromycin,acetaminophen,1
+alprazolam,folic acid,1
+vitamin d,ibuprofen,1
+edoxaban,morphine,1
+clarithromycin,paracetamol,1
+paracetamol,pravastatin,1
+esomeprazole,omeprazole,1
+paracetamol,acetaminophen,1
+vitamin c,simvastatin,1
+diclofenac,edoxaban,1
+vitamin d,rosuvastatin,1
+enterogermina,pravastatin,1
+erythromycin,codeine,1
+acetaminophen,tramadol,1
+paracetamol,pravastatin,1
+ketoprofen,vitamin d,1
+lorazepam,acetaminophen,1
+rosuvastatin,apixaban,1
+clonazepam,tramadol,3
+edoxaban,escitalopram,1
+fluoxetine,esomeprazole,1
+rivaroxaban,erythromycin,1
+clarithromycin,dabigatran,1
+diazepam,probiotic,1
+vitamin c,amiodarone,1
+atorvastatin,pantoprazole,2
+clarithromycin,erythromycin,3
+dexketoprofen,folic acid,1
+naproxen,apixaban,1
+erythromycin,enterogermina,1
+folic acid,dexketoprofen,1
+tramadol,oxycodone,1
+escitalopram,enterogermina,1
+erythromycin,simvastatin,3
+simvastatin,lorazepam,1
+erythromycin,warfarin,3
+clarithromycin,amiodarone,3
+amiodarone,folic acid,1
+clarithromycin,escitalopram,1
+vitamin d,diclofenac,1
+vitamin d,amiodarone,1
+probiotic,codeine,1
+lorazepam,enterogermina,1
+dexketoprofen,fluoxetine,2
+rivaroxaban,b12,1
+b12,ibuprofen,1
+warfarin,folic acid,1
+dexketoprofen,warfarin,3
+rosuvastatin,erythromycin,3
+azithromycin,vitamin d,1
+tramadol,codeine,1
+clonazepam,atorvastatin,1
+simvastatin,morphine,1
+diclofenac,pantoprazole,1
+alprazolam,diazepam,1
+rivaroxaban,pantoprazole,1
+diazepam,azithromycin,1
+clarithromycin,paracetamol,1
+ketoprofen,erythromycin,1
+erythromycin,omeprazole,1
+escitalopram,edoxaban,1
+escitalopram,atorvastatin,1
+paracetamol,erythromycin,1
+codeine,tramadol,1
+pantoprazole,simvastatin,2
+naproxen,sertraline,2
+omeprazole,dexketoprofen,1
+morphine,acetaminophen,1
+codeine,diclofenac,1
+apixaban,codeine,1
+acetaminophen,pravastatin,1
+apixaban,simvastatin,1
+amiodarone,enterogermina,1
+morphine,simvastatin,1
+edoxaban,warfarin,1
+apixaban,rosuvastatin,1
+lorazepam,vitamin c,1
+rivaroxaban,diazepam,1
+diazepam,lorazepam,1
+dexketoprofen,omeprazole,1
+ketoprofen,sertraline,2
+ketoprofen,clarithromycin,1
+simvastatin,diclofenac,1
+apixaban,probiotic,1
+paracetamol,naproxen,1
+edoxaban,warfarin,1
+erythromycin,rivaroxaban,1
+dexketoprofen,b12,1
+paracetamol,vitamin d,1
+alprazolam,azithromycin,1
+clarithromycin,fluoxetine,1
+codeine,clarithromycin,1
+oxycodone,rivaroxaban,1
+esomeprazole,pravastatin,2
+vitamin d,probiotic,1
+fluoxetine,omeprazole,1
+ibuprofen,b12,1
+naproxen,clarithromycin,1
+warfarin,diazepam,1
+esomeprazole,clarithromycin,1
+apixaban,ketoprofen,1
+vitamin c,rosuvastatin,1
+erythromycin,amiodarone,3
+b12,atorvastatin,1
+pantoprazole,tramadol,1
+vitamin d,escitalopram,1
+probiotic,azithromycin,1
+diazepam,edoxaban,1
+morphine,tramadol,1
+edoxaban,ketoprofen,1
+clarithromycin,dabigatran,1
+naproxen,dexketoprofen,1
+ketoprofen,acetaminophen,1
+diazepam,omeprazole,1
+atorvastatin,ibuprofen,1
+diazepam,fluoxetine,2
+oxycodone,azithromycin,1
+simvastatin,sertraline,1
+ketoprofen,diclofenac,1
+diclofenac,tramadol,1
+vitamin c,paracetamol,1
+fluoxetine,apixaban,1
+azithromycin,atorvastatin,3
+ketoprofen,lorazepam,1
+folic acid,codeine,1
+codeine,apixaban,1
+erythromycin,diazepam,1
+rivaroxaban,fluoxetine,1
+tramadol,acetaminophen,1
+erythromycin,pantoprazole,1
+edoxaban,probiotic,1
+diclofenac,simvastatin,1
+esomeprazole,vitamin c,1
+paroxetine,pravastatin,1
+simvastatin,erythromycin,3
+diazepam,ibuprofen,1
+atorvastatin,rivaroxaban,1
+clarithromycin,atorvastatin,3
+enterogermina,folic acid,1
+escitalopram,clarithromycin,1
+omeprazole,folic acid,1
+atorvastatin,tramadol,1
+ketoprofen,b12,1
+escitalopram,probiotic,1
+dexketoprofen,esomeprazole,1
+oxycodone,clonazepam,3
+azithromycin,dexketoprofen,1
+oxycodone,probiotic,1
+sertraline,alprazolam,2
+oxycodone,ibuprofen,1
+dabigatran,folic acid,1
+diclofenac,apixaban,1
+clonazepam,paroxetine,2
+escitalopram,probiotic,1
+edoxaban,b12,1
+paroxetine,rivaroxaban,1
+escitalopram,pantoprazole,1
+morphine,codeine,1
+escitalopram,warfarin,3
+erythromycin,ketoprofen,1
+b12,azithromycin,1
+paracetamol,naproxen,1
+apixaban,vitamin c,1
+paroxetine,paracetamol,1
+paracetamol,ibuprofen,1
+dabigatran,sertraline,1
+simvastatin,dabigatran,1
+clonazepam,dabigatran,1
+fluoxetine,erythromycin,1
+esomeprazole,diclofenac,1
+paracetamol,ketoprofen,1
+lorazepam,esomeprazole,1
+diazepam,paracetamol,1
+alprazolam,sertraline,2
+oxycodone,lorazepam,3
+acetaminophen,azithromycin,1
+pantoprazole,folic acid,1
+omeprazole,probiotic,1
+omeprazole,paracetamol,1
+escitalopram,rosuvastatin,1
+pravastatin,warfarin,1
+fluoxetine,clarithromycin,1
+lorazepam,amiodarone,3
+rivaroxaban,warfarin,1
+ibuprofen,vitamin d,1
+naproxen,apixaban,1
+diclofenac,probiotic,1
+lorazepam,oxycodone,3
+edoxaban,amiodarone,1
+clarithromycin,atorvastatin,3
+simvastatin,b12,1
+rosuvastatin,vitamin c,1
+pantoprazole,dabigatran,1
+vitamin d,enterogermina,1
+erythromycin,diclofenac,1
+clarithromycin,warfarin,3
+vitamin c,oxycodone,1
+acetaminophen,morphine,1
+tramadol,pravastatin,1
+acetaminophen,amiodarone,1
+lorazepam,azithromycin,1
+dabigatran,esomeprazole,1
+edoxaban,erythromycin,1
+clarithromycin,vitamin d,1
+vitamin d,diclofenac,1
+dexketoprofen,clonazepam,1
+rivaroxaban,codeine,1
+naproxen,erythromycin,1
+morphine,oxycodone,1
+apixaban,paracetamol,1
+escitalopram,vitamin c,1
+edoxaban,clonazepam,1
+diclofenac,simvastatin,1
+edoxaban,fluoxetine,1
+fluoxetine,rivaroxaban,1
+rosuvastatin,erythromycin,3
+ketoprofen,dabigatran,1
+b12,clarithromycin,1
+ibuprofen,lorazepam,1
+azithromycin,clarithromycin,1
+codeine,enterogermina,1
+codeine,lorazepam,3
+lorazepam,paroxetine,2
+escitalopram,fluoxetine,1
+azithromycin,enterogermina,1
+esomeprazole,pantoprazole,1
+paracetamol,vitamin c,1
+clonazepam,diazepam,1
+paroxetine,azithromycin,1
+paroxetine,acetaminophen,1
+simvastatin,dexketoprofen,1
+apixaban,folic acid,1
+morphine,ibuprofen,1
+enterogermina,escitalopram,1
+escitalopram,apixaban,1
+dabigatran,enterogermina,1
+codeine,lorazepam,3
+clarithromycin,azithromycin,1
+esomeprazole,paracetamol,1
+naproxen,dexketoprofen,1
+vitamin d,diclofenac,1
+azithromycin,erythromycin,1
+clonazepam,alprazolam,1
+clonazepam,naproxen,1
+enterogermina,atorvastatin,1
+pravastatin,dabigatran,1
+rosuvastatin,folic acid,1
+diclofenac,oxycodone,1
+oxycodone,folic acid,1
+clarithromycin,warfarin,3
+paroxetine,warfarin,3
+acetaminophen,dexketoprofen,1
+amiodarone,diazepam,3
+esomeprazole,tramadol,1
+azithromycin,probiotic,1
+lorazepam,probiotic,1
+oxycodone,diazepam,3
+clarithromycin,sertraline,1
+paroxetine,pravastatin,1
+folic acid,paroxetine,1
+escitalopram,esomeprazole,1
+clarithromycin,edoxaban,1
+pravastatin,probiotic,1
+ketoprofen,clarithromycin,1
+apixaban,diclofenac,1
+simvastatin,diclofenac,1
+apixaban,erythromycin,1
+erythromycin,paracetamol,1
+alprazolam,paroxetine,2
+fluoxetine,ketoprofen,2
+warfarin,amiodarone,3
+warfarin,esomeprazole,1
+erythromycin,oxycodone,1
+sertraline,folic acid,1
+esomeprazole,rosuvastatin,2
+amiodarone,paracetamol,1
+b12,fluoxetine,1
+azithromycin,probiotic,1
+rivaroxaban,diazepam,1
+ketoprofen,codeine,1
+oxycodone,amiodarone,1
+omeprazole,probiotic,1
+escitalopram,clarithromycin,1
+rivaroxaban,paroxetine,1
+ketoprofen,lorazepam,1
+omeprazole,codeine,1
+sertraline,diazepam,2
+amiodarone,rivaroxaban,1
+azithromycin,esomeprazole,1
+edoxaban,warfarin,1
+folic acid,edoxaban,1
+simvastatin,erythromycin,3
+enterogermina,clonazepam,1
+clonazepam,edoxaban,1
+dabigatran,folic acid,1
+azithromycin,enterogermina,1
+edoxaban,paracetamol,1
+rivaroxaban,erythromycin,1
+acetaminophen,dabigatran,1
+naproxen,esomeprazole,1
+ketoprofen,clarithromycin,1
+lorazepam,pantoprazole,1
+alprazolam,vitamin c,1
+simvastatin,azithromycin,3
+rosuvastatin,probiotic,1
+clarithromycin,oxycodone,1
+dexketoprofen,simvastatin,1
+acetaminophen,ibuprofen,1
+warfarin,folic acid,1
+alprazolam,diclofenac,1
+probiotic,b12,1
+paroxetine,rosuvastatin,1
+erythromycin,azithromycin,1
+naproxen,sertraline,2
+clarithromycin,sertraline,1
+apixaban,esomeprazole,1
+escitalopram,diazepam,2
+erythromycin,acetaminophen,1
+dabigatran,erythromycin,1
+omeprazole,alprazolam,1
+erythromycin,paroxetine,1
+codeine,escitalopram,2
+vitamin c,sertraline,1
+sertraline,rosuvastatin,1
+esomeprazole,omeprazole,1
+azithromycin,codeine,1
+edoxaban,rosuvastatin,1
+vitamin d,folic acid,1
+vitamin c,diazepam,1
+atorvastatin,dexketoprofen,1
+fluoxetine,azithromycin,1
+fluoxetine,simvastatin,1
+tramadol,morphine,1
+codeine,tramadol,1
+folic acid,apixaban,1
+atorvastatin,paracetamol,1
+ketoprofen,vitamin d,1
+b12,clarithromycin,1
+rosuvastatin,escitalopram,1
+apixaban,clarithromycin,1
+diclofenac,naproxen,1
+erythromycin,paroxetine,1
+b12,clarithromycin,1
+rosuvastatin,pravastatin,1
+morphine,pantoprazole,1
+vitamin c,edoxaban,1
+warfarin,omeprazole,1
+edoxaban,vitamin d,1
+simvastatin,tramadol,1
+rosuvastatin,diazepam,1
+naproxen,pantoprazole,1
+pravastatin,vitamin d,1
+amiodarone,erythromycin,3
+acetaminophen,clonazepam,1
+omeprazole,oxycodone,1
+morphine,vitamin d,1
+morphine,erythromycin,1
+b12,diazepam,1
+vitamin c,escitalopram,1
+rosuvastatin,lorazepam,1
+rivaroxaban,escitalopram,1
+clonazepam,paroxetine,2
+fluoxetine,apixaban,1
+edoxaban,lorazepam,1
+azithromycin,erythromycin,1
+probiotic,dexketoprofen,1
+lorazepam,pravastatin,1
+omeprazole,clarithromycin,1
+paracetamol,erythromycin,1
+naproxen,lorazepam,1
+codeine,apixaban,1
+pravastatin,sertraline,1
+tramadol,naproxen,1
+amiodarone,erythromycin,3
+amiodarone,tramadol,1
+rivaroxaban,sertraline,1
+dabigatran,paracetamol,1
+alprazolam,folic acid,1
+amiodarone,atorvastatin,1
+paracetamol,clonazepam,1
+dabigatran,vitamin c,1
+ibuprofen,escitalopram,2
+dexketoprofen,folic acid,1
+sertraline,tramadol,2
+b12,vitamin c,1
+omeprazole,naproxen,1
+simvastatin,probiotic,1
+vitamin c,paracetamol,1
+apixaban,rosuvastatin,1
+apixaban,rosuvastatin,1
+clonazepam,atorvastatin,1
+rosuvastatin,amiodarone,1
+azithromycin,omeprazole,1
+acetaminophen,clarithromycin,1
+acetaminophen,ibuprofen,1
+naproxen,warfarin,3
+ibuprofen,warfarin,3
+sertraline,rosuvastatin,1
+vitamin c,ketoprofen,1
+omeprazole,diazepam,1
+alprazolam,edoxaban,1
+edoxaban,fluoxetine,1
+vitamin d,simvastatin,1
+oxycodone,ketoprofen,1
+ibuprofen,rivaroxaban,1
+erythromycin,dexketoprofen,1
+apixaban,esomeprazole,1
+alprazolam,vitamin d,1
+rivaroxaban,sertraline,1
+erythromycin,vitamin c,1
+dexketoprofen,ibuprofen,1
+ibuprofen,dexketoprofen,1
+escitalopram,codeine,2
+clarithromycin,rivaroxaban,1
+simvastatin,tramadol,1
+alprazolam,apixaban,1
+pantoprazole,naproxen,1
+enterogermina,probiotic,1
+diclofenac,warfarin,3
+acetaminophen,sertraline,1
+amiodarone,diazepam,3
+naproxen,rivaroxaban,1
+clarithromycin,naproxen,1
+naproxen,apixaban,1
+apixaban,rosuvastatin,1
+enterogermina,erythromycin,1
+oxycodone,rivaroxaban,1
+lorazepam,folic acid,1
+erythromycin,edoxaban,1
+paroxetine,diclofenac,2
+warfarin,ketoprofen,3
+erythromycin,azithromycin,1
+rosuvastatin,paracetamol,1
+atorvastatin,probiotic,1
+paroxetine,atorvastatin,1
+paroxetine,rosuvastatin,1
+morphine,erythromycin,1
+paracetamol,vitamin d,1
+fluoxetine,dexketoprofen,2
+oxycodone,b12,1
+naproxen,paracetamol,1
+rivaroxaban,vitamin d,1
+naproxen,clarithromycin,1
+naproxen,morphine,1
+atorvastatin,lorazepam,1
+sertraline,simvastatin,1
+morphine,erythromycin,1
+rosuvastatin,diclofenac,1
+esomeprazole,enterogermina,1
+edoxaban,b12,1
+erythromycin,dexketoprofen,1
+paroxetine,amiodarone,3
+oxycodone,sertraline,2
+fluoxetine,amiodarone,3
+ketoprofen,azithromycin,1
+ketoprofen,erythromycin,1
+oxycodone,dabigatran,1
+diazepam,b12,1
+diazepam,folic acid,1
+atorvastatin,alprazolam,1
+naproxen,clarithromycin,1
+apixaban,rosuvastatin,1
+warfarin,rosuvastatin,1
+dexketoprofen,apixaban,1
+dabigatran,esomeprazole,1
+diazepam,enterogermina,1
+vitamin d,b12,1
+vitamin d,escitalopram,1
+erythromycin,oxycodone,1
+erythromycin,morphine,1
+dexketoprofen,atorvastatin,1
+clarithromycin,acetaminophen,1
+alprazolam,codeine,3
+vitamin d,edoxaban,1
+clonazepam,clarithromycin,1
+folic acid,diclofenac,1
+acetaminophen,paracetamol,1
+dabigatran,oxycodone,1
+acetaminophen,esomeprazole,1
+folic acid,apixaban,1
+atorvastatin,pravastatin,1
+clonazepam,folic acid,1
+omeprazole,rosuvastatin,2
+naproxen,folic acid,1
+erythromycin,ketoprofen,1
+dexketoprofen,b12,1
+folic acid,vitamin c,1
+clarithromycin,lorazepam,1
+b12,paroxetine,1
+pravastatin,ketoprofen,1
+apixaban,probiotic,1
+morphine,naproxen,1
+morphine,tramadol,1
+apixaban,vitamin d,1
+alprazolam,clarithromycin,1
+enterogermina,dexketoprofen,1
+paroxetine,diclofenac,2
+clonazepam,escitalopram,2
+ibuprofen,pravastatin,1
+erythromycin,azithromycin,1
+simvastatin,folic acid,1
+oxycodone,amiodarone,1
+codeine,oxycodone,1
+dexketoprofen,vitamin d,1
+clonazepam,ketoprofen,1
+lorazepam,clonazepam,1
+sertraline,paracetamol,1
+escitalopram,clarithromycin,1
+dexketoprofen,omeprazole,1
+ibuprofen,rosuvastatin,1
+rivaroxaban,sertraline,1
+morphine,clarithromycin,1
+ibuprofen,sertraline,2
+ibuprofen,clarithromycin,1
+dabigatran,omeprazole,1
+vitamin d,simvastatin,1
+ibuprofen,pantoprazole,1
+omeprazole,dabigatran,1
+vitamin c,clarithromycin,1
+edoxaban,clarithromycin,1
+oxycodone,edoxaban,1
+paroxetine,pantoprazole,1
+pantoprazole,azithromycin,1
+codeine,ketoprofen,1
+b12,dabigatran,1
+codeine,atorvastatin,1
+clarithromycin,ketoprofen,1
+alprazolam,enterogermina,1
+diclofenac,ketoprofen,1
+acetaminophen,sertraline,1
+atorvastatin,esomeprazole,2
+probiotic,sertraline,1
+dabigatran,amiodarone,1
+azithromycin,acetaminophen,1
+ketoprofen,amiodarone,1
+b12,esomeprazole,1
+clonazepam,escitalopram,2
+morphine,erythromycin,1
+fluoxetine,alprazolam,2
+paroxetine,morphine,2
+acetaminophen,alprazolam,1
+apixaban,amiodarone,1
+vitamin d,paroxetine,1
+rosuvastatin,apixaban,1
+oxycodone,vitamin d,1
+dexketoprofen,rosuvastatin,1
+vitamin c,rivaroxaban,1
+vitamin c,naproxen,1
+rivaroxaban,clarithromycin,1
+clonazepam,erythromycin,1
+omeprazole,rivaroxaban,1
+atorvastatin,esomeprazole,2
+probiotic,amiodarone,1
+folic acid,naproxen,1
+codeine,ibuprofen,1
+apixaban,alprazolam,1
+alprazolam,warfarin,1
+esomeprazole,rosuvastatin,2
+dabigatran,diclofenac,1
+edoxaban,tramadol,1
+escitalopram,warfarin,3
+omeprazole,atorvastatin,2
+folic acid,ibuprofen,1
+oxycodone,sertraline,2
+clonazepam,oxycodone,3
+dabigatran,escitalopram,1
+naproxen,amiodarone,1
+vitamin c,paroxetine,1
+esomeprazole,b12,1
+ibuprofen,paracetamol,1
+probiotic,vitamin d,1
+omeprazole,lorazepam,1
+tramadol,vitamin d,1
+esomeprazole,omeprazole,1
+paracetamol,oxycodone,1
+enterogermina,erythromycin,1
+pantoprazole,warfarin,1
+diazepam,paroxetine,2
+sertraline,paracetamol,1
+azithromycin,alprazolam,1
+rosuvastatin,diazepam,1
+escitalopram,b12,1
+folic acid,enterogermina,1
+azithromycin,vitamin c,1
+paracetamol,warfarin,1
+rosuvastatin,rivaroxaban,1
+clonazepam,escitalopram,2
+enterogermina,warfarin,1
+ibuprofen,folic acid,1
+acetaminophen,erythromycin,1
+ibuprofen,clonazepam,1
+omeprazole,esomeprazole,1
+warfarin,pantoprazole,1
+diclofenac,b12,1
+azithromycin,diclofenac,1
+escitalopram,codeine,2
+folic acid,alprazolam,1
+morphine,azithromycin,1
+erythromycin,oxycodone,1
+rivaroxaban,fluoxetine,1
+vitamin d,escitalopram,1
+azithromycin,atorvastatin,3
+b12,warfarin,1
+vitamin c,folic acid,1
+codeine,apixaban,1
+dabigatran,edoxaban,1
+paracetamol,naproxen,1
+escitalopram,alprazolam,2
+dabigatran,ibuprofen,1
+rosuvastatin,pantoprazole,2
+clarithromycin,sertraline,1
+simvastatin,diclofenac,1
+vitamin c,escitalopram,1
+erythromycin,edoxaban,1
+diclofenac,vitamin c,1
+omeprazole,ketoprofen,1
+oxycodone,morphine,1
+amiodarone,dexketoprofen,1
+b12,warfarin,1
+clarithromycin,escitalopram,1
+oxycodone,tramadol,1
+dexketoprofen,paroxetine,2
+warfarin,clarithromycin,3
+erythromycin,alprazolam,1
+clonazepam,omeprazole,1
+lorazepam,azithromycin,1
+fluoxetine,enterogermina,1
+alprazolam,acetaminophen,1
+diazepam,ketoprofen,1
+tramadol,lorazepam,3
+folic acid,paracetamol,1
+fluoxetine,rivaroxaban,1
+amiodarone,erythromycin,3
+tramadol,folic acid,1
+vitamin d,lorazepam,1
+ibuprofen,amiodarone,1
+clarithromycin,clonazepam,1
+sertraline,dexketoprofen,2
+clarithromycin,atorvastatin,3
+paracetamol,ibuprofen,1
+apixaban,diazepam,1
+omeprazole,clarithromycin,1
+acetaminophen,probiotic,1
+azithromycin,oxycodone,1
+edoxaban,clarithromycin,1
+omeprazole,warfarin,1
+ketoprofen,b12,1
+rosuvastatin,clonazepam,1
+clonazepam,lorazepam,1
+b12,rivaroxaban,1
+warfarin,ibuprofen,3
+lorazepam,folic acid,1
+dexketoprofen,sertraline,2
+vitamin c,simvastatin,1
+clonazepam,oxycodone,3
+esomeprazole,diazepam,1
+ketoprofen,edoxaban,1
+enterogermina,probiotic,1
+vitamin c,esomeprazole,1
+amiodarone,omeprazole,1
+azithromycin,enterogermina,1
+rivaroxaban,edoxaban,1
+ketoprofen,edoxaban,1
+ketoprofen,ibuprofen,1
+sertraline,atorvastatin,1
+esomeprazole,rosuvastatin,2
+rosuvastatin,lorazepam,1
+rivaroxaban,atorvastatin,1
+rosuvastatin,paracetamol,1
+enterogermina,clarithromycin,1
+atorvastatin,simvastatin,1
+erythromycin,ketoprofen,1
+ibuprofen,clonazepam,1
+sertraline,diazepam,2
+rivaroxaban,erythromycin,1
+omeprazole,enterogermina,1
+pantoprazole,rosuvastatin,2
+warfarin,fluoxetine,3
+ibuprofen,erythromycin,1
+enterogermina,clonazepam,1
+vitamin d,erythromycin,1
+azithromycin,folic acid,1
+apixaban,lorazepam,1
+clonazepam,warfarin,1
+rivaroxaban,erythromycin,1
+alprazolam,naproxen,1
+erythromycin,amiodarone,3
+escitalopram,dabigatran,1
+codeine,morphine,1
+acetaminophen,edoxaban,1
+paroxetine,diclofenac,2
+dabigatran,clarithromycin,1
+ibuprofen,codeine,1
+amiodarone,oxycodone,1
+lorazepam,rosuvastatin,1
+edoxaban,esomeprazole,1
+vitamin c,esomeprazole,1
+erythromycin,amiodarone,3
+codeine,vitamin c,1
+edoxaban,atorvastatin,1
+diazepam,omeprazole,1
+tramadol,oxycodone,1
+b12,clarithromycin,1
+b12,warfarin,1
+ibuprofen,simvastatin,1
+codeine,clarithromycin,1
+erythromycin,azithromycin,1
+diazepam,folic acid,1
+paroxetine,b12,1
+rivaroxaban,probiotic,1
+diclofenac,enterogermina,1
+dabigatran,folic acid,1
+azithromycin,acetaminophen,1
+dabigatran,esomeprazole,1
+b12,diazepam,1
+erythromycin,warfarin,3
+vitamin d,diclofenac,1
+simvastatin,naproxen,1
+dabigatran,erythromycin,1
+fluoxetine,clonazepam,2
+alprazolam,clarithromycin,1
+dabigatran,paracetamol,1
+amiodarone,vitamin d,1
+apixaban,diazepam,1
+rivaroxaban,erythromycin,1
+codeine,tramadol,1
+tramadol,pravastatin,1
+escitalopram,omeprazole,1
+oxycodone,rosuvastatin,1
+alprazolam,b12,1
+dexketoprofen,diazepam,1
+paracetamol,lorazepam,1
+clonazepam,vitamin c,1
+clarithromycin,pantoprazole,1
+amiodarone,fluoxetine,3
+azithromycin,enterogermina,1
+enterogermina,warfarin,1
+amiodarone,fluoxetine,3
+apixaban,vitamin d,1
+edoxaban,diclofenac,1
+omeprazole,simvastatin,2
+probiotic,dabigatran,1
+dabigatran,ibuprofen,1
+folic acid,edoxaban,1
+codeine,tramadol,1
+erythromycin,diazepam,1
+apixaban,folic acid,1
+paracetamol,vitamin d,1
+warfarin,pravastatin,1
+paroxetine,clarithromycin,1
+ibuprofen,paroxetine,2
+diazepam,simvastatin,1
+warfarin,erythromycin,3
+warfarin,esomeprazole,1
+ibuprofen,clonazepam,1
+tramadol,simvastatin,1
+apixaban,tramadol,1
+naproxen,acetaminophen,1
+erythromycin,escitalopram,1
+paracetamol,tramadol,1
+vitamin d,clarithromycin,1
+b12,pravastatin,1
+amiodarone,clarithromycin,3
+omeprazole,vitamin d,1
+paracetamol,diazepam,1
+paroxetine,diazepam,2
+ketoprofen,erythromycin,1
+b12,acetaminophen,1
+omeprazole,codeine,1
+apixaban,folic acid,1
+ibuprofen,enterogermina,1
+sertraline,esomeprazole,1
+clonazepam,codeine,3
+erythromycin,acetaminophen,1
+simvastatin,vitamin d,1
+sertraline,enterogermina,1
+rivaroxaban,erythromycin,1
+codeine,diazepam,3
+ibuprofen,amiodarone,1
+erythromycin,fluoxetine,1
+ibuprofen,edoxaban,1
+sertraline,tramadol,2
+tramadol,atorvastatin,1
+dexketoprofen,clarithromycin,1
+acetaminophen,diazepam,1
+warfarin,clarithromycin,3
+vitamin d,paracetamol,1
+b12,warfarin,1
+rosuvastatin,clarithromycin,3
+paroxetine,rivaroxaban,1
+clonazepam,omeprazole,1
+vitamin c,sertraline,1
+warfarin,pantoprazole,1
+warfarin,rivaroxaban,1
+clarithromycin,dabigatran,1
+warfarin,ketoprofen,3
+dexketoprofen,ibuprofen,1
+diazepam,tramadol,3
+morphine,rosuvastatin,1
+alprazolam,escitalopram,2
+codeine,omeprazole,1
+pantoprazole,dabigatran,1
+acetaminophen,omeprazole,1
+clonazepam,atorvastatin,1
+codeine,acetaminophen,1
+warfarin,diclofenac,3
+morphine,esomeprazole,1
+paroxetine,simvastatin,1
+pravastatin,probiotic,1
+amiodarone,pravastatin,1
+paroxetine,pravastatin,1
+azithromycin,omeprazole,1
+rosuvastatin,paracetamol,1
+ibuprofen,esomeprazole,1
+naproxen,oxycodone,1
+ibuprofen,esomeprazole,1
+fluoxetine,apixaban,1
+folic acid,oxycodone,1
+b12,ketoprofen,1
+paracetamol,rosuvastatin,1
+b12,tramadol,1
+enterogermina,oxycodone,1
+ketoprofen,folic acid,1
+omeprazole,paroxetine,1
+azithromycin,escitalopram,1
+diazepam,erythromycin,1
+edoxaban,clonazepam,1
+probiotic,naproxen,1
+azithromycin,folic acid,1
+atorvastatin,diazepam,1
+omeprazole,naproxen,1
+erythromycin,dabigatran,1
+apixaban,probiotic,1
+clonazepam,erythromycin,1
+ketoprofen,pravastatin,1
+clarithromycin,warfarin,3
+rivaroxaban,vitamin d,1
+omeprazole,lorazepam,1
+naproxen,sertraline,2
+vitamin d,dabigatran,1
+codeine,ibuprofen,1
+naproxen,escitalopram,2
+diazepam,amiodarone,3
+rosuvastatin,esomeprazole,2
+paracetamol,vitamin d,1
+esomeprazole,morphine,1
+erythromycin,alprazolam,1
+dexketoprofen,apixaban,1
+codeine,edoxaban,1
+morphine,clarithromycin,1
+edoxaban,oxycodone,1
+pantoprazole,paracetamol,1
+amiodarone,alprazolam,3
+diclofenac,probiotic,1
+clarithromycin,oxycodone,1
+paroxetine,codeine,2
+ibuprofen,diazepam,1
+vitamin c,probiotic,1
+naproxen,alprazolam,1
+dexketoprofen,lorazepam,1
+vitamin d,vitamin c,1
+vitamin c,clonazepam,1
+pantoprazole,erythromycin,1
+oxycodone,ibuprofen,1
+tramadol,erythromycin,1
+simvastatin,azithromycin,3
+acetaminophen,paracetamol,1
+pantoprazole,lorazepam,1
+sertraline,folic acid,1
+omeprazole,probiotic,1
+escitalopram,alprazolam,2
+acetaminophen,vitamin c,1
+erythromycin,diclofenac,1
+escitalopram,simvastatin,1
+acetaminophen,codeine,1
+fluoxetine,clarithromycin,1
+oxycodone,pantoprazole,1
+ketoprofen,esomeprazole,1
+simvastatin,morphine,1
+edoxaban,enterogermina,1
+paroxetine,dexketoprofen,2
+escitalopram,ketoprofen,2
+lorazepam,rivaroxaban,1
+ibuprofen,omeprazole,1
+sertraline,apixaban,1
+azithromycin,naproxen,1
+acetaminophen,atorvastatin,1
+pantoprazole,folic acid,1
+naproxen,edoxaban,1
+atorvastatin,pravastatin,1
+esomeprazole,diazepam,1
+fluoxetine,warfarin,3
+vitamin d,erythromycin,1
+lorazepam,erythromycin,1
+erythromycin,alprazolam,1
+acetaminophen,enterogermina,1
+pantoprazole,morphine,1
+paracetamol,codeine,1
+vitamin c,enterogermina,1
+probiotic,erythromycin,1
+amiodarone,apixaban,1
+pantoprazole,naproxen,1
+codeine,lorazepam,3
+simvastatin,fluoxetine,1
+codeine,clonazepam,3
+simvastatin,fluoxetine,1
+dexketoprofen,probiotic,1
+alprazolam,rivaroxaban,1
+ibuprofen,folic acid,1
+esomeprazole,vitamin c,1
+tramadol,rosuvastatin,1
+simvastatin,vitamin d,1
+warfarin,atorvastatin,1
+probiotic,dabigatran,1
+erythromycin,enterogermina,1
+rivaroxaban,diazepam,1
+tramadol,dexketoprofen,1
+amiodarone,alprazolam,3
+rivaroxaban,pravastatin,1
+simvastatin,esomeprazole,2
+rosuvastatin,pantoprazole,2
+diclofenac,alprazolam,1
+diazepam,clonazepam,1
+rivaroxaban,paroxetine,1
+erythromycin,simvastatin,3
+erythromycin,atorvastatin,3
+b12,paroxetine,1
+clarithromycin,diclofenac,1
+paracetamol,rosuvastatin,1
+diazepam,erythromycin,1
+amiodarone,vitamin d,1
+amiodarone,fluoxetine,3
+vitamin c,esomeprazole,1
+amiodarone,fluoxetine,3
+edoxaban,codeine,1
+clarithromycin,probiotic,1
+codeine,simvastatin,1
+rosuvastatin,tramadol,1
+atorvastatin,dexketoprofen,1
+simvastatin,acetaminophen,1
+rosuvastatin,omeprazole,2

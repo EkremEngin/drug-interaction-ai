@@ -1,0 +1,29 @@
+# --- Python cache ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Virtual environments ---
+venv/
+.venv/
+
+# --- IDE files ---
+.vscode/
+.idea/
+
+# --- Local OS files ---
+.DS_Store
+
+# --- LOG files ---
+*.log
+
+# --- ONLY ignore BIG DrugBank datasets ---
+data/drug_interactions.json
+data/drug_interactions.csv
+
+# --- DO NOT IGNORE JSON/CSV GLOBALLY ---
+# brand_map.json ve synthetic_ddi.csv GitHub'a gidecek.
+
+# --- Model files (commit etmek serbest) ---
+# models/*.pkl REPO’DA KALMALI (Render için şart)
