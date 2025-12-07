@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", () => {
         });
 
         // 🔥 LOCALHOST GİTTİ → RENDER BACKEND GELDİ
-        fetch("http://127.0.0.1:5000/predict", {
+        fetch("https://drug-interaction-ai.onrender.com/predict", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({ text: text, style: selectedStyle })
