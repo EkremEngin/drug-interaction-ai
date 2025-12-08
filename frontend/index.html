@@ -4,36 +4,132 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Drug Interaction AI</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <div class="app-root">
+        <div class="bg-orbit bg-orbit-1"></div>
+        <div class="bg-orbit bg-orbit-2"></div>
+        <div class="bg-orbit bg-orbit-3"></div>
 
-    <div class="container">
-        <h1>İlaç Etkileşim Analizi</h1>
+        <header class="app-header">
+            <div class="logo-block">
+                <div class="logo-pill">
+                    <span class="logo-dot logo-dot-left"></span>
+                    <span class="logo-dot logo-dot-right"></span>
+                </div>
+                <div class="logo-text">
+                    <h1>Drug Interaction AI</h1>
+                    <p>Serbest metinden ilaç etkileşimi analiz paneli</p>
+                </div>
+            </div>
+            <div class="header-badge">
+                <span class="badge-dot"></span>
+                <span>Model destekli risk analizi</span>
+            </div>
+        </header>
 
-        <textarea id="inputText" placeholder="Bugün aldığınız ilaçları buraya yazın..."></textarea>
+        <main class="app-main">
+            <section class="card card-input">
+                <div class="card-header">
+                    <h2>İlaç öykünüz</h2>
+                    <span class="card-tag">Metin girişi</span>
+                </div>
 
-        <div id="styleButtons">
-            <button class="style-btn active" data-style="1">Basit</button>
-            <button class="style-btn" data-style="2">Orta</button>
-            <button class="style-btn" data-style="3">Doktor</button>
-        </div>
+                <div class="textarea-wrapper">
+                    <textarea id="inputText" placeholder="Bugün aldığınız ilaçları, dozları ve ne zaman aldığınızı normal cümleyle yazın..."></textarea>
+                    <div class="textarea-footer">
+                        <span id="charCount">0 karakter</span>
+                        <span class="hint-text">Örnek: Dün göğüs ağrısı için aspirin aldım, gece uyuyamadığım için alprazolam kullandım...</span>
+                    </div>
+                </div>
 
-        <button id="analyzeBtn">Analiz Et</button>
+                <div class="style-row">
+                    <div class="style-label">Analiz modu</div>
+                    <div id="styleButtons" class="style-buttons">
+                        <button class="style-btn active" data-style="1">Basit</button>
+                        <button class="style-btn" data-style="2">Orta Teknik</button>
+                        <button class="style-btn" data-style="3">Doktor Modu</button>
+                    </div>
+                </div>
 
-        <div id="riskFilterButtons">
-            <button class="risk-btn risk-btn-low" data-target="low">Düşük Risk (<span id="low-count">0</span>)</button>
-            <button class="risk-btn risk-btn-medium" data-target="medium">Orta Risk (<span id="medium-count">0</span>)</button>
-            <button class="risk-btn risk-btn-high" data-target="high">Yüksek Risk (<span id="high-count">0</span>)</button>
-        </div>
+                <button id="analyzeBtn" class="primary-btn">
+                    <span class="btn-spinner"></span>
+                    <span class="btn-label">Analiz Et</span>
+                </button>
+            </section>
 
-        <div id="risk-panels">
-            <div id="panel-low" class="risk-panel"></div>
-            <div id="panel-medium" class="risk-panel"></div>
-            <div id="panel-high" class="risk-panel"></div>
-        </div>
+            <section class="card card-summary">
+                <div class="card-header">
+                    <h2>Genel özet</h2>
+                    <span class="card-tag card-tag-subtle">Son analiz</span>
+                </div>
 
-        <div id="result"></div>
+                <div id="summaryBox" class="summary-box">
+                    <p id="summaryText" class="summary-text">
+                        Henüz analiz yapılmadı. Metni yazıp "Analiz Et" butonuna basın.
+                    </p>
+                </div>
+
+                <div class="pill-row">
+                    <div class="pill-row-header">
+                        <span>Klinik olarak yakalanan ilaçlar</span>
+                    </div>
+                    <div id="foundDrugs" class="pill-list">
+                        <span class="pill-empty">İlaç bulunmadı</span>
+                    </div>
+                </div>
+
+                <div class="risk-mini-grid">
+                    <div class="risk-mini risk-mini-low">
+                        <span class="risk-mini-label">Düşük risk</span>
+                        <span class="risk-mini-value" id="low-count">0</span>
+                    </div>
+                    <div class="risk-mini risk-mini-medium">
+                        <span class="risk-mini-label">Orta risk</span>
+                        <span class="risk-mini-value" id="medium-count">0</span>
+                    </div>
+                    <div class="risk-mini risk-mini-high">
+                        <span class="risk-mini-label">Yüksek risk</span>
+                        <span class="risk-mini-value" id="high-count">0</span>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <section class="card card-panels">
+            <div class="card-header card-header-inline">
+                <div class="header-left">
+                    <h2>Detaylı etkileşimler</h2>
+                    <p>Risk düzeyine göre filtreleyerek kartları açıp kapatabilirsiniz.</p>
+                </div>
+                <div id="riskFilterButtons" class="risk-filter-row">
+                    <button class="risk-btn risk-btn-low" data-target="low">
+                        Düşük Risk (<span>0</span>)
+                    </button>
+                    <button class="risk-btn risk-btn-medium" data-target="medium">
+                        Orta Risk (<span>0</span>)
+                    </button>
+                    <button class="risk-btn risk-btn-high" data-target="high">
+                        Yüksek Risk (<span>0</span>)
+                    </button>
+                </div>
+            </div>
+
+            <div id="risk-panels" class="risk-panels">
+                <div id="panel-low" class="risk-panel"></div>
+                <div id="panel-medium" class="risk-panel"></div>
+                <div id="panel-high" class="risk-panel"></div>
+            </div>
+
+            <div id="result" class="hidden"></div>
+        </section>
+
+        <footer class="app-footer">
+            <span class="footer-dot"></span>
+            <span>Bu araç, hiçbir zaman klinik kararın tek kaynağı olarak kullanılmamalıdır. Şüphede kaldığınızda doktorunuza veya eczacınıza danışın.</span>
+        </footer>
     </div>
 
     <script src="script.js"></script>
